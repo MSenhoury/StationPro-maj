@@ -1,7 +1,7 @@
 {
-  "version": "1.93",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-1.93.bin",
-  "sig": "6wQ6DKz3BPWGHocg1KjxE7IE4PEqhSHvk0eXhgTlmeIRrHl2AyyAUVI+JqsSVtT+hyN5zAEm8soZNOagmk97CQ==",
-  "notes": "Cuves et jaugeage remis d'aplomb",
+  "version": "1.94",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-1.94.bin",
+  "sig": "yPbkLN/X3Mdyo2Ig4O5t3bWFiYoQFYIyVDTQtukfOu/5+U7YjJ+bEIL+2ld9x/X2j8SdshoYCqyEcaWk7EPOBQ==",
+  "notes": "Les deux postes ne se disputent plus, ils s'additionnent",
   "min": "1.91"
 }
