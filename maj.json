@@ -1,7 +1,7 @@
 {
-  "version": "1.92",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-1.92.bin",
-  "sig": "+ZeJW9sssCbtWV1HweeQL4cfGMifamAuTIszLxPMAjdgtle+wPr9AMkVSYnxwqhtWS+2umhnCUCm2/849LjXBA==",
-  "notes": "",
+  "version": "1.93",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-1.93.bin",
+  "sig": "6wQ6DKz3BPWGHocg1KjxE7IE4PEqhSHvk0eXhgTlmeIRrHl2AyyAUVI+JqsSVtT+hyN5zAEm8soZNOagmk97CQ==",
+  "notes": "Cuves et jaugeage remis d'aplomb",
   "min": "1.91"
 }
