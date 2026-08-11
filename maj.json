@@ -1,7 +1,7 @@
 {
-  "version": "1.95",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-1.95.bin",
-  "sig": "Ao4PW/I+dFBP3PusJVICHUC8f881Ah6FrwkItsve9sB/BgKQ0+Eg69o+rRCkcNVRb7Fk+CEiWUYAYKuYC6VrCQ==",
-  "notes": "La mise a jour s installe toute seule",
+  "version": "1.96",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-1.96.bin",
+  "sig": "j3X+4wZGshTj80E1NkFc6yS+cLsYRJAvw3b6qCwu0YLsaLLzCuv/KDntR0Mlj85DBwb1AzjIPtbGam6EQ5QABQ==",
+  "notes": "Plus de question entre les deux postes",
   "min": "1.91"
 }
