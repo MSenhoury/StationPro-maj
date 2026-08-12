@@ -1,0 +1,7 @@
+{
+  "version": "1.99",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-1.99.bin",
+  "sig": "bB2CAVW9Y0c2YleC6AFTG+5b8EKkZ2r1fKpHlm6efIFB+zh+Hl1+9oBSJo6fgH+K2FGtlYQS6lHc3zREg4h8DA==",
+  "notes": "Le serveur remplace le dossier partage : plus de banniere entre deux postes, abonnement et licence automatiques",
+  "min": "1.91"
+}
