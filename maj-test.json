@@ -1,7 +1,7 @@
 {
-  "version": "1.99",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-1.99.bin",
-  "sig": "bB2CAVW9Y0c2YleC6AFTG+5b8EKkZ2r1fKpHlm6efIFB+zh+Hl1+9oBSJo6fgH+K2FGtlYQS6lHc3zREg4h8DA==",
-  "notes": "Le serveur remplace le dossier partage : plus de banniere entre deux postes, abonnement et licence automatiques",
+  "version": "2.0",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.0.bin",
+  "sig": "LT/Niuw1XlCxOdBtLPdE1NTrw5r2J+9EVIlTIrXw/VIA3q0OC9BwH4W7U/s+M3vtq/Gjdx7n/hklDtfN9vHPBw==",
+  "notes": "Licence renouvelee affichee, message qui reste, adresse du serveur pre-remplie",
   "min": "1.91"
 }
