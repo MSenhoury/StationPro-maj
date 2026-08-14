@@ -1,7 +1,7 @@
 {
-  "version": "2.0",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.0.bin",
-  "sig": "LT/Niuw1XlCxOdBtLPdE1NTrw5r2J+9EVIlTIrXw/VIA3q0OC9BwH4W7U/s+M3vtq/Gjdx7n/hklDtfN9vHPBw==",
-  "notes": "Licence renouvelee affichee, message qui reste, adresse du serveur pre-remplie",
+  "version": "2.1",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.1.bin",
+  "sig": "sxj0/2upce3LTVSZm2LSI0sEwurbllnoReJWYkZLODNvFvhDaGclCQcqopAWx0JxYc6vILk63ohluW03tHEaDw==",
+  "notes": "v2.1 : canal grave dans l'exe, adresse de maj constante",
   "min": "1.91"
 }
