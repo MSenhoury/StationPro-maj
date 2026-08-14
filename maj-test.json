@@ -1,7 +1,7 @@
 {
-  "version": "2.1",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.1.bin",
-  "sig": "sxj0/2upce3LTVSZm2LSI0sEwurbllnoReJWYkZLODNvFvhDaGclCQcqopAWx0JxYc6vILk63ohluW03tHEaDw==",
-  "notes": "v2.1 : canal grave dans l'exe, adresse de maj constante",
+  "version": "2.2",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.2.bin",
+  "sig": "GuM6SFPa6+RdyGp94kE7M1v8FCnGkWqJ23ssdLPTqZkKIpX0JMlTqnozfFeNmuoezvMhs6eb9NOr7C+qlv9nCA==",
+  "notes": "v2.2 : connexion par identifiant, backoffice en ligne, courriels et sauvegarde automatiques",
   "min": "1.91"
 }
