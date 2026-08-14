@@ -1,7 +1,7 @@
 {
-  "version": "2.2",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.2.bin",
-  "sig": "GuM6SFPa6+RdyGp94kE7M1v8FCnGkWqJ23ssdLPTqZkKIpX0JMlTqnozfFeNmuoezvMhs6eb9NOr7C+qlv9nCA==",
-  "notes": "v2.2 : connexion par identifiant, backoffice en ligne, courriels et sauvegarde automatiques",
+  "version": "2.3",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.3.bin",
+  "sig": "Y+kWZa8l88iohBCq88lrYzrZwEZJHG+ZOLNw+oraTWhgp35ZkAnezkR5wHRZOuYehxW5BUmqxjpO5/TFp60kCQ==",
+  "notes": "v2.3 : parametres ere-automatique, backoffice au PIN, robinet courriels par client",
   "min": "1.91"
 }
