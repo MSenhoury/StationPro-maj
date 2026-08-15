@@ -1,7 +1,7 @@
 {
-  "version": "2.3",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.3.bin",
-  "sig": "Y+kWZa8l88iohBCq88lrYzrZwEZJHG+ZOLNw+oraTWhgp35ZkAnezkR5wHRZOuYehxW5BUmqxjpO5/TFp60kCQ==",
-  "notes": "v2.3 : parametres ere-automatique, backoffice au PIN, robinet courriels par client",
+  "version": "2.5",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.5.bin",
+  "sig": "4LsslVNDrZdo7ihlVlgDZ/x/U50sCzQD8JU8s3p4HdbHtJaWxOszG44fwzp7ZQb1ZZnn7Von+8cy7600GnX0Bg==",
+  "notes": "vrai logo bleu, film d'ouverture, Zone dangereuse retiree, caisse 1280x720",
   "min": "1.91"
 }
