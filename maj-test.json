@@ -1,7 +1,7 @@
 {
-  "version": "2.15",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.15.bin",
-  "sig": "dWRfvq1k9FBcKgyR6zXw4Uwas3xYTidqY74RBHfetBqRYUcvrxieRfouS9lBR7Pw7j4c/WyLkU2cZkE7u4XADQ==",
-  "notes": "",
+  "version": "2.16",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.16.bin",
+  "sig": "nvnPzrbqVCnwnf0PfAzZnig7iSjb/k2hRs6gjKVgM4O8e62LIxCUdqUnAMVz0QyuXQNk/TunmWiv8ytoDlC2Dw==",
+  "notes": "v2.16 : le fichier depose par le fournisseur s'impose tel quel, logo et cachet compris",
   "min": "1.91"
 }
