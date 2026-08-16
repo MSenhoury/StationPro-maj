@@ -1,7 +1,7 @@
 {
-  "version": "2.11",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.11.bin",
-  "sig": "Ec0asPnH7AJL+dEwZ1x9RME7/vowg9EABup7Int3akh1KoKfspuC41vSSA54/AOG3MOp+SRze4lhUFUWohwxDA==",
-  "notes": "",
+  "version": "2.12",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.12.bin",
+  "sig": "G8sps2/KIiog6vwOrveBw39ydvh+3+utdhzGqebfwvDqjDyR6Tr3SjBFj+qW2PArj1vjHm72PQ3GdajF0eGAAA==",
+  "notes": "v2.12 : plus d'assistant, annuler un depot 24 h, backoffice range, mise a jour sans refus",
   "min": "1.91"
 }
