@@ -1,7 +1,7 @@
 {
-  "version": "2.13",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.13.bin",
-  "sig": "FAHzPEW9sr0z+HfU1fuxmeQ9lmjnwwYsr+wMMHWOevOa/4I54fI4WGUer2T7lDcNPR36Xlacv4rg0Rj106uiBA==",
-  "notes": "",
+  "version": "2.14",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.14.bin",
+  "sig": "YsM+mfOhQYx8sTxevqBOkvzBIDWbwP9ZGD69ml9MJx6s1REunEmi0HBy6pLaQ51SSLlUV//p1Sxanye4NUMSDw==",
+  "notes": "v2.14 : le decoupage de app.html en sources, assemblage octet pour octet",
   "min": "1.91"
 }
