@@ -1,7 +1,7 @@
 {
-  "version": "2.7",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.7.bin",
-  "sig": "JveID8Tchdhw1kYuXEkI2/3tskT+WULNmqcF6agrwStduo/uA0ERwgeXH4SDjH8+em8ibMJFeDma1y3gYKMlAQ==",
-  "notes": "vague 1 : la connexion en premier ecran",
+  "version": "2.9",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.9.bin",
+  "sig": "JuXjoMxhkOz3WPs+pR8V0UMLPbQuGh3zf5vS0tEIlEmJBZP12oeiohmowHrowsj8HhPyy1+XphGGpUjJL/L2AQ==",
+  "notes": "v2.9 : un identifiant de station, un PIN par personne",
   "min": "1.91"
 }
