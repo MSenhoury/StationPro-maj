@@ -1,7 +1,7 @@
 {
-  "version": "2.9",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.9.bin",
-  "sig": "JuXjoMxhkOz3WPs+pR8V0UMLPbQuGh3zf5vS0tEIlEmJBZP12oeiohmowHrowsj8HhPyy1+XphGGpUjJL/L2AQ==",
-  "notes": "v2.9 : un identifiant de station, un PIN par personne",
+  "version": "2.10",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.10.bin",
+  "sig": "lCvc1hWTVnD1ac8VXMxzRPS7SkORnfMuV51aQndpgkNPIlGzZbgrN6ACrRyhdFQ3wQfXEkq7aj61QyTtaYKBAg==",
+  "notes": "v2.10 : vos remarques, et l'assistant qui s'ouvrait sur une station pleine",
   "min": "1.91"
 }
