@@ -1,7 +1,7 @@
 {
-  "version": "2.17",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.17.bin",
-  "sig": "xbGT/rkTIxl4UJypRN91rgOCBf/i/+YD/2GslCy4y2H5FZlwtVvWktkBLZ+wA3FYCIIr/Z7DSTJXgiWAKRHEAg==",
-  "notes": "v2.17 : vague 2, les utilisateurs sur le serveur",
+  "version": "2.18",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.18.bin",
+  "sig": "lJ/u3ARGLKGEkYSeZoFAs+kaD4RQuN4DKywf196rAm/Ekd8ZDyRxpBgVy/pgpoPzVeO53lt37rPTQyUAYCH4Cw==",
+  "notes": "",
   "min": "1.91"
 }
