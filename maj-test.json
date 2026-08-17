@@ -1,7 +1,7 @@
 {
-  "version": "2.22",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.22.bin",
-  "sig": "yXSaGMoJGCWHdRgBDoEXzZfAAf1r+tawNpeX8CjuOCF/+OoY+gVNdSdq3ws84cN0M/+uEFBd41662AWgBEuYBQ==",
-  "notes": "v2.22 : vague 3 - poste relie, plus de fichier partage",
+  "version": "2.23",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.23.bin",
+  "sig": "tf1ZQ0+iFLA3lq8itSuJ2TjAeR98b0q8AlSolNQH20BI25M3w2ZCFwhUSN5mtO5HOGsG8aRRPpdXIsnMjOsaCw==",
+  "notes": "",
   "min": "1.91"
 }
