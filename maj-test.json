@@ -1,7 +1,7 @@
 {
-  "version": "2.25",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.25.bin",
-  "sig": "uDkBLv/eYmvWBL9tle9qRLN6HFSBgzvHrQ7Jt/pqksJ+E4OY8k9TgXib4Gbg1C0Jo8tNwmvAfrNM74/7L5rHDg==",
-  "notes": "v2.24 : copyright",
+  "version": "2.26",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.26.bin",
+  "sig": "GlF1g4E9CovNyQm3inK/+xaOdiTTyAhJPiNn/n1mlqCXPY+0ndprorpAFnhDHBOuF5VgERlPliALUzN/TuRwAw==",
+  "notes": "v2.26 : les pompistes en direct et la fiche du jour",
   "min": "1.91"
 }
