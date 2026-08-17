@@ -1,7 +1,7 @@
 {
-  "version": "2.26",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.26.bin",
-  "sig": "GlF1g4E9CovNyQm3inK/+xaOdiTTyAhJPiNn/n1mlqCXPY+0ndprorpAFnhDHBOuF5VgERlPliALUzN/TuRwAw==",
-  "notes": "v2.26 : les pompistes en direct et la fiche du jour",
+  "version": "2.27",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.27.bin",
+  "sig": "3mwFYbLNChbLb4THZTYcxUmsyY0Nu319lpO201vnPPcnXxvcXMiKxmvL/F8hWUGRWJNu+4s7dNgw82txk1Z6BQ==",
+  "notes": "v2.27 : la ligne A verser retrouve son ecran d'avant",
   "min": "1.91"
 }
