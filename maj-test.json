@@ -1,7 +1,7 @@
 {
-  "version": "2.19",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.19.bin",
-  "sig": "gYLomw4CsdLNa9J8TPjhQmBDs9ObD9YewJCHnL35TdzbMiyg8s4mQwQGW2ko9cGB8/oDQgTAJgBPSqdr8PgTCA==",
-  "notes": "v2.19 : finitions - backoffice carte courte, ecrans d'entree accessibles",
+  "version": "2.21",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.21.bin",
+  "sig": "Rk7+rgeRnDHAwlQXfDfIp5q5tnsF0CtDriFiDrcOIOuazV9LlWhJZLFO9fnzNsFmgsha4uJIdLPb1puTvzWZBg==",
+  "notes": "v2.21 : qui a fait quoi au backoffice",
   "min": "1.91"
 }
