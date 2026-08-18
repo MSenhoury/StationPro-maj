@@ -1,7 +1,7 @@
 {
-  "version": "2.40",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.40.bin",
-  "sig": "GJwz8hj3t+jsz0uiQX9mm+zvIrecsTRyQ2p9qbt0Fo3iwheq5cQyh6NLD5sgpyipF1ugp1PNbHTmF2VSXRBfAA==",
-  "notes": "v2.40 : les cinq roles, le paiement fournisseur",
+  "version": "2.41",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.41.bin",
+  "sig": "ayt3Uvod000iiFVzmNRGuUgzVrk9CQAnUl+NuCbEy0L+slsh+Ubpy7FuzPylfE08TzusjBg/j311ZTm30m6WBQ==",
+  "notes": "v2.41 : on casse l'application expres",
   "min": "1.91"
 }
