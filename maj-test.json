@@ -1,7 +1,7 @@
 {
-  "version": "2.36",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.36.bin",
-  "sig": "PYPx5TWkNIm+mq7NR+FjQstGbMuYRI02k88OEepHod/nEk0H+yifspmYPMQHBYE3utsl+xD21rF3AEz1Y+x7AQ==",
-  "notes": "v2.36 : l'agencement protege",
+  "version": "2.37",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.37.bin",
+  "sig": "b2L+JBPbePWaPdFeE7Q7TkWoNjd8IyhSfs7A6d9CCAd57+FZq1pduKYOfG/NKvma5j2SGGrnOwDJCgd7Nmq+AA==",
+  "notes": "v2.37 : le document imprime",
   "min": "1.91"
 }
