@@ -1,7 +1,7 @@
 {
-  "version": "2.35",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.35.bin",
-  "sig": "CLZNAB2XRdraX12MDRIUUH4LBY7oEvcw8qh8NEmU90DH8aeQEmnLAE/LHbm5qoQqCrtXk6T3koRfSV4T5nxHBg==",
-  "notes": "v2.35 : la revue des ecrans",
+  "version": "2.36",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.36.bin",
+  "sig": "PYPx5TWkNIm+mq7NR+FjQstGbMuYRI02k88OEepHod/nEk0H+yifspmYPMQHBYE3utsl+xD21rF3AEz1Y+x7AQ==",
+  "notes": "v2.36 : l'agencement protege",
   "min": "1.91"
 }
