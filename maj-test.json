@@ -1,7 +1,7 @@
 {
-  "version": "2.30",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.30.bin",
-  "sig": "83AEYk1dTqLi3hQPwK8JRztojQtW28DcObkJcp9ruZFPT9aInP9OD4x+WJb0Pw43BhDGObGSnkPczORxMZxCAA==",
-  "notes": "v2.30 : courriels habilles et bilingues (fr + ar)",
+  "version": "2.31",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.31.bin",
+  "sig": "bRRHgK0rLRzDJ8wX12fJNKB1aPXOfUIB0lKCRYRXiQ/n7mWm95N7EnTlI4h76YCBhU0FaTHzM1wYHv36iwt9BQ==",
+  "notes": "",
   "min": "1.91"
 }
