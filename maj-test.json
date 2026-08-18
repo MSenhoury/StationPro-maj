@@ -1,7 +1,7 @@
 {
-  "version": "2.29",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.29.bin",
-  "sig": "dTuRS4SAb+n7UxadmBUltxK9J6SwQJh5Bvoe6lyRnnmiW1vlZc4hnEH6wwD9sAXSTxthenEFhEyZbCshsLLgCQ==",
-  "notes": "v2.29 : Ctrl+Z, Ctrl+Y et retour a l'etat de cloture",
+  "version": "2.30",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.30.bin",
+  "sig": "83AEYk1dTqLi3hQPwK8JRztojQtW28DcObkJcp9ruZFPT9aInP9OD4x+WJb0Pw43BhDGObGSnkPczORxMZxCAA==",
+  "notes": "v2.30 : courriels habilles et bilingues (fr + ar)",
   "min": "1.91"
 }
