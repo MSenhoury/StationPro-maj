@@ -1,7 +1,7 @@
 {
-  "version": "2.39",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.39.bin",
-  "sig": "PzcWKPJBey0oCw/DzgH3eUX/JkSTPIAkqrKOJHx3XSWvm6Obx+Qgd+8IDtsA/9RZd6xQoU/mwdYxCqbR8kAmCQ==",
-  "notes": "v2.39 : les tableaux qui debordent, la signature seule",
+  "version": "2.40",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.40.bin",
+  "sig": "GJwz8hj3t+jsz0uiQX9mm+zvIrecsTRyQ2p9qbt0Fo3iwheq5cQyh6NLD5sgpyipF1ugp1PNbHTmF2VSXRBfAA==",
+  "notes": "v2.40 : les cinq roles, le paiement fournisseur",
   "min": "1.91"
 }
