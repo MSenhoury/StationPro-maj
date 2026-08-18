@@ -1,7 +1,7 @@
 {
-  "version": "2.34",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.34.bin",
-  "sig": "5l+m3NiPHBl0fpi8lJWk5kPPa+G0MLbPw3rX40PI0zlpZhwV6F76Zcy8CWw17R/kPKCAFk2xYi7ybWkDhTLYBA==",
-  "notes": "v2.34 : les ecrans et les documents",
+  "version": "2.35",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.35.bin",
+  "sig": "CLZNAB2XRdraX12MDRIUUH4LBY7oEvcw8qh8NEmU90DH8aeQEmnLAE/LHbm5qoQqCrtXk6T3koRfSV4T5nxHBg==",
+  "notes": "v2.35 : la revue des ecrans",
   "min": "1.91"
 }
