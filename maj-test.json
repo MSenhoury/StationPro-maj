@@ -1,7 +1,7 @@
 {
-  "version": "2.38",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.38.bin",
-  "sig": "+vRQQ8hyMfxuRxH0zPB7sT2IWUV5U/QWqLb5xuXL4xvYvqm23L2NPZQmfNor1AeRd1RnJlvDI31pyPCOmUKqBA==",
-  "notes": "v2.38 : le contraste, le papier, les invariants",
+  "version": "2.39",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.39.bin",
+  "sig": "PzcWKPJBey0oCw/DzgH3eUX/JkSTPIAkqrKOJHx3XSWvm6Obx+Qgd+8IDtsA/9RZd6xQoU/mwdYxCqbR8kAmCQ==",
+  "notes": "v2.39 : les tableaux qui debordent, la signature seule",
   "min": "1.91"
 }
