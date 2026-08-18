@@ -1,7 +1,7 @@
 {
-  "version": "2.37",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.37.bin",
-  "sig": "b2L+JBPbePWaPdFeE7Q7TkWoNjd8IyhSfs7A6d9CCAd57+FZq1pduKYOfG/NKvma5j2SGGrnOwDJCgd7Nmq+AA==",
-  "notes": "v2.37 : le document imprime",
+  "version": "2.38",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.38.bin",
+  "sig": "+vRQQ8hyMfxuRxH0zPB7sT2IWUV5U/QWqLb5xuXL4xvYvqm23L2NPZQmfNor1AeRd1RnJlvDI31pyPCOmUKqBA==",
+  "notes": "v2.38 : le contraste, le papier, les invariants",
   "min": "1.91"
 }
