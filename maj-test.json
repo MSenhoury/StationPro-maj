@@ -1,7 +1,7 @@
 {
-  "version": "2.32",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.32.bin",
-  "sig": "mUJSt/5iJAs4Wjfi7/+rHugfQyE18fa2qZYR1NJE4//aJX1XIvS1/gtLNFVvb2lq4wLX81uQGDa2RYO+qIgpCA==",
-  "notes": "v2.32 : le journal chaine",
+  "version": "2.33",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.33.bin",
+  "sig": "lX+6A2ZRzlJWfTa6fffqntnVLb8PgHJeyBv6YwVLubAFFGfSP3Ee020S1SjZgGP/skMptoWifrkYlktsHe6FDQ==",
+  "notes": "v2.33 : la livraison sobre",
   "min": "1.91"
 }
