@@ -1,7 +1,7 @@
 {
-  "version": "2.27",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.27.bin",
-  "sig": "3mwFYbLNChbLb4THZTYcxUmsyY0Nu319lpO201vnPPcnXxvcXMiKxmvL/F8hWUGRWJNu+4s7dNgw82txk1Z6BQ==",
-  "notes": "v2.27 : la ligne A verser retrouve son ecran d'avant",
+  "version": "2.28",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.28.bin",
+  "sig": "w6uD6ByjrbOjlgBAior2O8FVKEu0nxXBJL0+3snDm3PwSLoe+jyBzwxVPM6+ubMYooFC3CofIOECTD8zkECaDQ==",
+  "notes": "",
   "min": "1.91"
 }
