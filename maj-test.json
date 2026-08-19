@@ -1,7 +1,7 @@
 {
-  "version": "2.46",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.46.bin",
-  "sig": "Fudx/aszz6uAiYVdBqxGlOUaZGgCeACrawNeUd1ikCh2ivQjO8tNbbEQbG6EB16sEZkx+/SCDHcabuZwXBFvCA==",
-  "notes": "v2.46 : pret pour les clients (audit + reparations), l ecran ne remonte plus, un seul total dans le paiement fournisseur",
+  "version": "2.47",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.47.bin",
+  "sig": "OlkjEHoRcyZee9EuxDBWqcWKo6M8sAVjaHHcwnHEDzWLs4/DGdfO/SSQfpmQCuqCPGZ0v3BfDfu260LNI+WqAQ==",
+  "notes": "v2.47 : le frein en 8 secondes, la surveillance par courriel, le menage des fichiers locaux",
   "min": "1.91"
 }
