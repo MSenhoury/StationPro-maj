@@ -1,7 +1,7 @@
 {
-  "version": "2.47",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.47.bin",
-  "sig": "OlkjEHoRcyZee9EuxDBWqcWKo6M8sAVjaHHcwnHEDzWLs4/DGdfO/SSQfpmQCuqCPGZ0v3BfDfu260LNI+WqAQ==",
-  "notes": "v2.47 : le frein en 8 secondes, la surveillance par courriel, le menage des fichiers locaux",
+  "version": "2.48",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.48.bin",
+  "sig": "n7vYxyvrCeK3FATojrK7Jxu2IR8rCKCQ6A+KSZ3YqDSW9oFJ75/y/wZxYR1ANcC0Zno1kesLMJTtpjcfZV7FBQ==",
+  "notes": "v2.48 : un prix date ne reecrit plus le passe, la marge negative dit pourquoi, un nom = un compte",
   "min": "1.91"
 }
