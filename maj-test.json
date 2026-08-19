@@ -1,7 +1,7 @@
 {
-  "version": "2.42",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.42.bin",
-  "sig": "ACtjmBz7iQd7t3gv5sseVySeFvSeUc63g0zewqQwswmKT6g8v7QjIduNTqbRsp0zjrVbKjyJphOdGEXhEMJ6Cw==",
-  "notes": "v2.42 : le frein qui freine vraiment, le journal du service, les alertes de l'application",
+  "version": "2.44",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.44.bin",
+  "sig": "cj0V1SgULGTccLrTmGGs6Z/5KpofJlB/XCfszQk50puTJo2VyV8bEF9iRBddk+mDpsqMyqA+7EJIvX/5KHvtDg==",
+  "notes": "v2.44 : l architecture en dossiers par metier + la cloche, la fiche fournisseur, argent et comptes, le versement du jour",
   "min": "1.91"
 }
