@@ -1,7 +1,7 @@
 {
-  "version": "2.42",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.42.bin",
-  "sig": "ACtjmBz7iQd7t3gv5sseVySeFvSeUc63g0zewqQwswmKT6g8v7QjIduNTqbRsp0zjrVbKjyJphOdGEXhEMJ6Cw==",
-  "notes": "v2.42 : le frein qui freine vraiment, le journal du service, les alertes de l'application",
+  "version": "2.41",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.41.bin",
+  "sig": "ayt3Uvod000iiFVzmNRGuUgzVrk9CQAnUl+NuCbEy0L+slsh+Ubpy7FuzPylfE08TzusjBg/j311ZTm30m6WBQ==",
+  "notes": "v2.41 : on casse l'application expres",
   "min": "1.91"
 }
