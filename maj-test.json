@@ -1,7 +1,7 @@
 {
-  "version": "2.48",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.48.bin",
-  "sig": "n7vYxyvrCeK3FATojrK7Jxu2IR8rCKCQ6A+KSZ3YqDSW9oFJ75/y/wZxYR1ANcC0Zno1kesLMJTtpjcfZV7FBQ==",
-  "notes": "v2.48 : un prix date ne reecrit plus le passe, la marge negative dit pourquoi, un nom = un compte",
+  "version": "2.49",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.49.bin",
+  "sig": "3M4LjymXLKfi5Z7cmAGPnPWEqVSf54yMYtNGXOmQv3ZaCywudiLzt1KWJDJTibBdxo+RK1BCwOzdeEh9g9gTDg==",
+  "notes": "v2.49 : la Saisie du jour dit a quel prix elle compte, et une journee signee qui a bouge se voit",
   "min": "1.91"
 }
