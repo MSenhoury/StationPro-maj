@@ -1,7 +1,7 @@
 {
-  "version": "2.44",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.44.bin",
-  "sig": "cj0V1SgULGTccLrTmGGs6Z/5KpofJlB/XCfszQk50puTJo2VyV8bEF9iRBddk+mDpsqMyqA+7EJIvX/5KHvtDg==",
-  "notes": "v2.44 : l architecture en dossiers par metier + la cloche, la fiche fournisseur, argent et comptes, le versement du jour",
+  "version": "2.46",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.46.bin",
+  "sig": "Fudx/aszz6uAiYVdBqxGlOUaZGgCeACrawNeUd1ikCh2ivQjO8tNbbEQbG6EB16sEZkx+/SCDHcabuZwXBFvCA==",
+  "notes": "v2.46 : pret pour les clients (audit + reparations), l ecran ne remonte plus, un seul total dans le paiement fournisseur",
   "min": "1.91"
 }
