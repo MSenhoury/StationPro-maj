@@ -1,7 +1,7 @@
 {
-  "version": "2.51",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.51.bin",
-  "sig": "BGpPtxk7WEqAXDIh6lb2oUlAX5CgfaAYSo+gMw7914W+49Hn6eAGOg7bzPFiNiqZkdUK/sbMjv2P6XMa8eBmAQ==",
-  "notes": "v2.51 : l'identifiant definitif, la feuille signee vit avec la journee, une feuille signee ne bouge plus en silence, la sauvegarde hebdo part enfin, le seuil d'ecart dans Parametres",
+  "version": "2.50",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.50.bin",
+  "sig": "zsTmJlI+nH3ZaogZ8x0T91phczVUS0KaHNXQs3nhFY7EAcAwcwvb/JGfwObDIaM3fz/Nt9uSFtCsAD7gkL13AA==",
+  "notes": "v2.50 : les lignes de portefeuille ont un nom, ton ordre gagne, la sentinelle voit, le prix au litre sur le papier",
   "min": "1.91"
 }
