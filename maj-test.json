@@ -1,7 +1,7 @@
 {
-  "version": "2.52",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.52.bin",
-  "sig": "EnmD9ruUu9ZMV/IsdBARaP5tDM/F8LakzyF68tCUxJvFYycHMjtwbQRAbnl8L6b+1mCyHhkcNV4udHgM9j3hDg==",
-  "notes": "le PIN oublie se quitte, le premier jour d'une station neuve s'explique, les alertes ne crient plus pour rien, le backoffice range les gestes de panne",
+  "version": "2.53",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.53.bin",
+  "sig": "Q19uhVrnFQjWRMhrfwF2hqxAmVjPOcIzOVcm4jbSjT4ebUnMdOUVUOPRZigzQWdxzZOXtgvgq2zZAWHAF0LhBQ==",
+  "notes": "v2.53 : le minuteur du serveur, le cachet qui ne meurt plus, hors ligne n'est pas une panne",
   "min": "1.91"
 }
