@@ -1,7 +1,7 @@
 {
-  "version": "2.53",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.53.bin",
-  "sig": "Q19uhVrnFQjWRMhrfwF2hqxAmVjPOcIzOVcm4jbSjT4ebUnMdOUVUOPRZigzQWdxzZOXtgvgq2zZAWHAF0LhBQ==",
-  "notes": "v2.53 : le minuteur du serveur, le cachet qui ne meurt plus, hors ligne n'est pas une panne",
+  "version": "2.54",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.54.bin",
+  "sig": "RXXKO63dEvvCOmsQtuV6OdZTvI9ngmBnbDaDDWpu9a7lL4pC2f3dIP33i3eCcBspBPiKK/BaNAL8pSiudS5eDA==",
+  "notes": "v2.54 : un poste neuf RECOIT la station, il ne la corrige pas — la cause du 21/08 et ses deux filets",
   "min": "1.91"
 }
