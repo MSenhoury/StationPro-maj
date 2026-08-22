@@ -1,7 +1,7 @@
 {
-  "version": "2.55",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.55.bin",
-  "sig": "KqeeNnMngVSdysweD1vdvvi5hc0XEJSatZihMiE5Yy2bpJRizyuE5EsDoMjoaTl3JoATf/5abh7OWynTbnWsCQ==",
-  "notes": "v2.55 : un clic supprime UNE ligne de prix, pas une date — et un carburant sans prix se dit",
+  "version": "2.56",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.56.bin",
+  "sig": "J1my72HgZo8/KrsMUsbOOFLTvdT5UDQa7Qy+lW2wUqdCgx8W6uEKg0yp1F0UwUm4Ms6jaEPn/0OLtxozZXDaAw==",
+  "notes": "",
   "min": "1.91"
 }
