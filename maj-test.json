@@ -1,7 +1,7 @@
 {
-  "version": "2.56",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.56.bin",
-  "sig": "J1my72HgZo8/KrsMUsbOOFLTvdT5UDQa7Qy+lW2wUqdCgx8W6uEKg0yp1F0UwUm4Ms6jaEPn/0OLtxozZXDaAw==",
-  "notes": "",
+  "version": "2.58",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.58.bin",
+  "sig": "hIY8NYQr/rkYsRjDCeG+XIwWXLCHtPMLo0vBlhyZxWabwVWeIeI/a2A5zBjdjwwCF3PQ41+BGtCAyEmME9I7Bw==",
+  "notes": "v2.58 : le client pose l'adresse de sa station lui-meme",
   "min": "1.91"
 }
