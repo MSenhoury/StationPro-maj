@@ -1,7 +1,7 @@
 {
-  "version": "2.58",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.58.bin",
-  "sig": "hIY8NYQr/rkYsRjDCeG+XIwWXLCHtPMLo0vBlhyZxWabwVWeIeI/a2A5zBjdjwwCF3PQ41+BGtCAyEmME9I7Bw==",
-  "notes": "v2.58 : le client pose l'adresse de sa station lui-meme",
+  "version": "2.62",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.62.bin",
+  "sig": "MtVrwUhrf31lqnnY6A9Bh1S3K3Y5EW2efFsNW8lEDZ0FqBr1BSPfdfG4MqzD5NnOhGvNcz4YdRruGu7ruQvhCQ==",
+  "notes": "v2.62 : Comptes et Fournisseur savent enfin sortir un papier, un seul pied de page, la demi-page blanche du mensuel disparait, et la piece jointe WhatsApp dit la verite",
   "min": "1.91"
 }
