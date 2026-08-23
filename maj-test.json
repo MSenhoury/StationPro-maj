@@ -1,7 +1,7 @@
 {
-  "version": "2.63",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.63.bin",
-  "sig": "m47JTAr4qUp7El1D3/6C2XdhI6Ou9yjLHbV1ncNk7CBWFuE488hVqbbG8aqYmlrT53pFdw1OGzQKywbSOm4dCw==",
-  "notes": "v2.63 : mentions legales et protection des donnees - qui edite, ou vont vos donnees, combien de temps elles restent, et ce qui manque encore ecrit en rouge",
+  "version": "2.64",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.64.bin",
+  "sig": "BTzN0XpcxOxbkk345CeEMr3ehWcqBSZQeLqIIE2HkqTbynGKHoNqG8dbXQ9WSHZOqSwjLfxrfOv4CJrQdUB+AQ==",
+  "notes": "v2.64 : le portail dit sa version, un seul comptage par fournisseur, une date qui ne porte plus de mot",
   "min": "1.91"
 }
