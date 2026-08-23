@@ -1,7 +1,7 @@
 {
-  "version": "2.66",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.66.bin",
-  "sig": "IjPalS+SNK3HN0v9yUjtJQMDJfw+hHE87bfF8q6c0HIZb9WW87uAsjxH2yOtDN3Xjk1VtLs0Bx97hdPyWHpmBg==",
-  "notes": "v2.66 : le bandeau reserve sa place sur chaque feuille, le cachet revient sur les cinq PDF, et chacun a son profil - telephone, email PIN oublie, PIN",
+  "version": "2.67",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.67.bin",
+  "sig": "HTpzVJZPZQlBsgQuEWiM1wv3ALQ/F3SjmFMWpnOxxle4O6CxcmJ5E6XcvCyWoUIvTfZrUYjFhPy+n/58RnGrDA==",
+  "notes": "",
   "min": "1.91"
 }
