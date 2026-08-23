@@ -1,7 +1,7 @@
 {
-  "version": "2.64",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.64.bin",
-  "sig": "BTzN0XpcxOxbkk345CeEMr3ehWcqBSZQeLqIIE2HkqTbynGKHoNqG8dbXQ9WSHZOqSwjLfxrfOv4CJrQdUB+AQ==",
-  "notes": "v2.64 : le portail dit sa version, un seul comptage par fournisseur, une date qui ne porte plus de mot",
+  "version": "2.65",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-2.65.bin",
+  "sig": "azAbfYkt7NCQSntTprfpm01ZA/ODREqYxvbvFWSKux/Dzb4VhyNf1xm9GLr7sy7cBx0j3qvqy0TAYQrJLRnIBQ==",
+  "notes": "v2.65 : un poste en avance sur son canal ne crie plus au rappel, SSTI SARL des deux cotes, et le serveur dit si les courriels partent",
   "min": "1.91"
 }
