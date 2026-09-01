@@ -1,7 +1,7 @@
 {
-  "version": "1.97",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-1.97.bin",
-  "sig": "IU2JF4LH1utkh99mh0wmGYFhfVRkIitbiodG2ZZq4n3z+tBSfmQCWKKDA0chfnb8sovHBivQFRMpOLNmp14iAQ==",
-  "notes": "Reglages sensibles sous code, date de cloture, valeur des achats du mois",
+  "version": "3.13",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.13.bin",
+  "sig": "U6liplMMoQTZme1QFCsTs41G+wZaE+NGw5OQ1cnDURyVgENE3SZG6vb3LuEgqZrqG6Ddlu8np4kpJpQTfjE1DA==",
+  "notes": "",
   "min": "1.91"
 }
