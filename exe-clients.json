@@ -1,0 +1,9 @@
+{
+  "version": "3.20.0",
+  "canal": "clients",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/StationPro_3.20.0_x64-setup.exe",
+  "sig": "olqR31HojJuRmNoJ/sISo3UbDj8xc61hXrC2eyKlUZkRKy2oOYmx3hazyGVxtp/aKut3Tg+HzlnI42o+np0AAQ==",
+  "sigvc": "2QDZcAsnxeK2sdRqYCD4maTPDpmBENom97dUEmgwguFr/eLzfAK9R+IUL5gu6lrg+wTl9PlqQPUTDhsS46tFCA==",
+  "taille": 4375909,
+  "sha256": "e2a91653d92d0dfb50c0f55ee2a849964a12c78000d33fce2886490ad7d38d75"
+}
