@@ -1,7 +1,7 @@
 {
-  "version": "3.39",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.39.bin",
-  "sig": "XY+78kDRZ55yBt4dzgJKTIamFJeDzlokl/X/wzhGQ45SUIi7bq5MCxM/gBNV43l0oqcs9xEQHou1HfEFXOy7DQ==",
-  "notes": "",
+  "version": "3.40",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.40.bin",
+  "sig": "HwQGYW4ETnNQZS7lhD7rH3ir+kemoZMVrY0vdQRrXhggeNYtdPD07vLn0nHSM0GOJ8ANmfY7lHXQoukqhU07Cw==",
+  "notes": "v3.40 - une seule identite : le client (code + mot de passe) ; une station appartient a un client et garde logo, abonnement, employes ; migration automatique ; messages clairs (plus de 200 incompris : 426 mettez a jour)",
   "min": "1.91"
 }
