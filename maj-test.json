@@ -1,7 +1,7 @@
 {
-  "version": "3.38",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.38.bin",
-  "sig": "CxSOJ6DeTH0PJSERIP7/HHgD6yUEi9g1dIaHyp6qb58tyWR1FNXPe6lv5MJiF9JFKLz+C7TUWFkwGn6qRbDYDw==",
-  "notes": "v3.38 - Lots 2 et 3 du second audit. C1 : la forme d'un rev_id sur les QUATRE chemins d'ecriture (serveur/forme-rev.js) + contraintes SQL, reparation avant contrainte. C2 : app_version borne a l'ecriture et remis a null par les trois chemins du backoffice. C3 : la version courante relue SOUS le verrou du depot backoffice. C11 : conrelid, compteurs non negatifs, identifiant en minuscules, journal date dans le futur purge. Lot 3 : minimum de controles par suite (A1, Playwright ajoute au job Serveur), le || true retire (A2), verifier.py rougit sans git (A3), every sur liste vide (A4), suite interrompue = interrompue (A5). Trois marqueurs de secrets (Render, Google, OpenAI). Nouveau : essais-forme-rev.js (43, sans PostgreSQL, 30 ECHECS sur la v3.37), compter-reparations.js (lecture seule, ZERO ligne sur Render le 04/09), preuve-reunion.js (l'index a moitie tape : mesure, pas corrige). Zone des calculs intacte, frontend/src non touche hors version. 1422 serveur, 2435 interface, 29 verifications.",
+  "version": "3.39",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.39.bin",
+  "sig": "XY+78kDRZ55yBt4dzgJKTIamFJeDzlokl/X/wzhGQ45SUIi7bq5MCxM/gBNV43l0oqcs9xEQHou1HfEFXOy7DQ==",
+  "notes": "",
   "min": "1.91"
 }
