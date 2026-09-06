@@ -1,7 +1,7 @@
 {
-  "version": "3.55",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.55.bin",
-  "sig": "ccrfS/XwXXeEUfC9/mTs6oNgpKBUI6zoNhvE82cLZ+yEvm5yy/Cij+p1TeFhh0l91FAPSxOBYXrKDv5NYbuBDA==",
-  "notes": "v3.55 : alerte B2 sur echec reel seulement ; arret propre journalise ; le sceau dit quel champ a bouge",
+  "version": "3.56",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.56.bin",
+  "sig": "40dkV6expBxGfP+sh4F0TnLekAN7XSKrhVj8X6l/sd2f3kIuObUjHOBfiNREZ+ztbqV18BDPuc5ZbvKfF9ZqAQ==",
+  "notes": "v3.56 : le proprietaire fait foi - nom, email, telephone remontent au client ; Mohamed S disparait",
   "min": "1.91"
 }
