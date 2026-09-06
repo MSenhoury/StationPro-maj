@@ -1,7 +1,7 @@
 {
-  "version": "3.52",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.52.bin",
-  "sig": "S4dyqUHEP+6XxGgi6CAhAuYpL+LtnGaMMGo/bDn2lFSD9S2/qAIVdfURjiWWinihdv4jjie7Xs3PKAoFiVTKBQ==",
-  "notes": "v3.52 : la sauvegarde dit je suis vivante a healthchecks ; apercu de restauration sur base neuve",
+  "version": "3.53",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.53.bin",
+  "sig": "NDLaEl1DqsvE/UtPbYsJ2+LVxEIlyjz/uHYHWwdlDKbXEpDcnCCZf/8wJ56D93Jd1OcSJPuVjA6pKMASLgckAA==",
+  "notes": "v3.53 : une journee signee ne change plus en silence (sceaux) ; admin.js redecoupe",
   "min": "1.91"
 }
