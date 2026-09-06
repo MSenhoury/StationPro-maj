@@ -1,7 +1,7 @@
 {
-  "version": "3.49",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.49.bin",
-  "sig": "c5YSPaYWkhd98ZIEOwux3OzFN2UBonR+F15vC+Va8owud3PWXQgL9OvkNZEidENvp2vlS84ncd8IiBxN9JELDw==",
-  "notes": "",
+  "version": "3.51",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.51.bin",
+  "sig": "1qe5QqrBtwZf6y7yPST3eHa2bgtoDDRwNDf4JJzhzt10tOHOWeldKgL50LC6j8odFw26t9oGvGwQyOplFMmWDQ==",
+  "notes": "v3.51 : journal des actions du backoffice (400 j) + la restauration ne recule plus en silence",
   "min": "1.91"
 }
