@@ -1,7 +1,7 @@
 {
-  "version": "3.54",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.54.bin",
-  "sig": "PxTIto7bkyKemiYz8yvS4sZcHB/gYGpzwFU4RGCr2ZyW2KwxVEnu/jtbNTz8usUGF1hwUZ3QtthL0hRAZPXwDA==",
-  "notes": "v3.54 : deuxieme filet B2 sous verrou ; version d'avant a l'abri quand un sceau change",
+  "version": "3.55",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.55.bin",
+  "sig": "ccrfS/XwXXeEUfC9/mTs6oNgpKBUI6zoNhvE82cLZ+yEvm5yy/Cij+p1TeFhh0l91FAPSxOBYXrKDv5NYbuBDA==",
+  "notes": "v3.55 : alerte B2 sur echec reel seulement ; arret propre journalise ; le sceau dit quel champ a bouge",
   "min": "1.91"
 }
