@@ -1,15 +1,7 @@
 {
-  "version": "3.63",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.63.bin",
-  "sig": "Gw2ga/PmJWpYfSW4v6mecEyy2f4SYbh9QJJwF17MYgXTBATfr7rMVQDs6QfL2mAgFHkduLLVgiqDCe3BqbvjCA==",
-  "notes": "v3.63 : design (ecran d'ouverture, logo de station geant, barre epuree, PIN sans 5e case) ; coquille garde l'installateur si echec",
-  "min": "1.91",
-  "exe": {
-    "version": "3.63.0",
-    "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/StationPro-Essai_3.63.0_x64-setup.exe",
-    "sig": "QjeNsxu9GPwPzkQfbPk8gtPwh/Rf05mCL+TQzShJa0Yo2dRg6WejMrMcvHJ6aZ3zZrowwrf8hAaLdYQKhV4TDg==",
-    "sigvc": "2B2zLM5j4R5B1T7Y0nxbOZLe+Il9F+Bg+BppvJkIr1wmUjzL3xaQxVWSVZy/3e0RQi0jI4vgr12Lrgwj4YDsBg==",
-    "taille": 4790558,
-    "sha256": "dcacb4cf9940153f41d5e2edf9ce2141127f8d0f73a8f5e5fc6a60e74c4f04ec"
-  }
+  "version": "3.64",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.64.bin",
+  "sig": "0Y0uhBGGeTbfGY4dPafk1qoO5tbYdxg9AhHwJle26d2JK3ED7gFUng6tDFQgv1Y0z2SxiLIMpVbK3K8Ai7n6Cw==",
+  "notes": "",
+  "min": "1.91"
 }
