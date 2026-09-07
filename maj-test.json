@@ -1,7 +1,7 @@
 {
-  "version": "3.57",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.57.bin",
-  "sig": "qBhnTeBzszHfyN9Ay0rbUrHHR0mgTXraycLHwqhctIrE6z96omW+2hL0ReoTmu/Pb5wmTnVyef4Rkw3Mhc2ODA==",
-  "notes": "",
+  "version": "3.58",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.58.bin",
+  "sig": "qiNkkF7DqwFlkQOW3gMpURMArJ+b7V08kT4aPB7m4PXJlAJZxa+nxWLzyM3HSzSwIyDd9NzdutjylAVtDvoLAQ==",
+  "notes": "v3.58 : preuve de sauvegarde (épreuve de restauration hebdomadaire, encadré backoffice), écran d'entrée refait (centré, moderne, animations)",
   "min": "1.91"
 }
