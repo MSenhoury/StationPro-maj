@@ -1,7 +1,7 @@
 {
-  "version": "3.59",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.59.bin",
-  "sig": "GcaBazYalkV8C8eoj8MgUC1RjCgUzaSb5/2HAiOKpiALwEHS9aZrfmZUg+HTn4XL1ZzWZCowH0dl7JiYqqHzDA==",
-  "notes": "v3.59 : écran d'entrée en verre 3D, vivant (touches bombées, carte inclinée, aurore, animations)",
+  "version": "3.60",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.60.bin",
+  "sig": "5X705NQKJQQmsY1T4up4Cn4OeHphh2Oxp3Z8K0P9vD1AUiFu2uRfmHUCeT0r+bNQA7Ws1LDf96KSAMEB15KADA==",
+  "notes": "v3.60 : écran d'entrée en verre liquide — cases PIN, pavé tactile, monde StationPro, film d'ouverture, sons ; Livrer sans nombre à taper",
   "min": "1.91"
 }
