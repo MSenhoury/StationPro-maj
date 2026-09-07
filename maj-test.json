@@ -1,7 +1,7 @@
 {
-  "version": "3.61",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.61.bin",
-  "sig": "3MT/veADYmZI694/2//J7pvnL7AX9NmDRDPjZLOqMhdAJfYijQ1sS7qRrj194U3PAx2F83SsXRwc8sUDAf+iCA==",
-  "notes": "v3.61 : le PIN suffit pour changer de station ; identifiant cache ; mot de passe une seule fois pour une station nouvelle",
+  "version": "3.62",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.62.bin",
+  "sig": "2dbnIR/WG50QxJakHqd5dRjjgyinOS7QYwlbmEuGMpWk1r+VxNe0HjdnuDLtMk2819JCqCaUcZrRB/yYg+JCCg==",
+  "notes": "v3.62 : la coquille s'installe enfin toute seule (relais cmd casse depuis la 3.10) ; sur un exe ancien : Preparer l'installateur une derniere fois",
   "min": "1.91"
 }
