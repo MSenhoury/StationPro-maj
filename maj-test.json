@@ -1,15 +1,7 @@
 {
-  "version": "3.60",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.60.bin",
-  "sig": "5X705NQKJQQmsY1T4up4Cn4OeHphh2Oxp3Z8K0P9vD1AUiFu2uRfmHUCeT0r+bNQA7Ws1LDf96KSAMEB15KADA==",
-  "notes": "v3.60 : écran d'entrée en verre liquide — cases PIN, pavé tactile, monde StationPro, film d'ouverture, sons ; Livrer sans nombre à taper",
-  "min": "1.91",
-  "exe": {
-    "version": "3.60.0",
-    "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/StationPro-Essai_3.60.0_x64-setup.exe",
-    "sig": "/+o7UUPMD829z960hxgYIkhCJ7Wp4Gmg056TGPQI6JO1QpzD5BYhuO/N+gO6WDloMc+Bc7wLCHNdrDUNg07tCw==",
-    "sigvc": "qz/AhTwm29yAtwEl18kyg1N3pi/qHkZvnmlMENOi0f19C/5fNci7xQOikaO5RYrY6TxQu9sVr0hP2HwaXoaMBw==",
-    "taille": 4770097,
-    "sha256": "38193f02a7c54cfc1e134df7790253a312c7625a45a31b1c92420642ffbd98f3"
-  }
+  "version": "3.61",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.61.bin",
+  "sig": "3MT/veADYmZI694/2//J7pvnL7AX9NmDRDPjZLOqMhdAJfYijQ1sS7qRrj194U3PAx2F83SsXRwc8sUDAf+iCA==",
+  "notes": "v3.61 : le PIN suffit pour changer de station ; identifiant cache ; mot de passe une seule fois pour une station nouvelle",
+  "min": "1.91"
 }
