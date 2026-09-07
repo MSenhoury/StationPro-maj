@@ -3,5 +3,13 @@
   "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.62.bin",
   "sig": "2dbnIR/WG50QxJakHqd5dRjjgyinOS7QYwlbmEuGMpWk1r+VxNe0HjdnuDLtMk2819JCqCaUcZrRB/yYg+JCCg==",
   "notes": "v3.62 : la coquille s'installe enfin toute seule (relais cmd casse depuis la 3.10) ; sur un exe ancien : Preparer l'installateur une derniere fois",
-  "min": "1.91"
+  "min": "1.91",
+  "exe": {
+    "version": "3.62.0",
+    "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/StationPro-Essai_3.62.0_x64-setup.exe",
+    "sig": "2a4i9MQdqZexMeoM0QvkmtCXYOy7z1aPqTZCot4qRQVg7XQggbvHRXz/eCwRVVpvr1NsEEHi++01AMBX+mCWBA==",
+    "sigvc": "gHpJAcJVQ0qZ/47qYxfKOZF2NNFWi3g5tpk+xksWfiYdc6wNtfmnmIfJ4dpg73h6D0rYhVR/6N6g8MUngzkABg==",
+    "taille": 4787298,
+    "sha256": "e8721b3139a54c20cde3d41daf26440ecc97d3712944a96f1a9c889de6a5980c"
+  }
 }
