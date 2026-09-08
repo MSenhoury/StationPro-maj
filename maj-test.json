@@ -1,7 +1,7 @@
 {
-  "version": "3.66",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.66.bin",
-  "sig": "1LeULw4kZRMcr5Yn8IYWjxhdogOuhCEIqOdx+BBljGfFgBRT1hwqHdd6tQXmJdmu0nBy5VMJwUsfMQqM9vsmCw==",
+  "version": "3.67",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.67.bin",
+  "sig": "pc2vbrmRH0v9U3QVHo5EWc7zhDDQkLmC4Mwi5mbcMFI8sXqmuzRiMBexP8GsBYPpKcVr3tyZTlZ9a320zmydBA==",
   "notes": "",
   "min": "1.91"
 }
