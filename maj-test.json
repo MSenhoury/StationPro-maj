@@ -1,7 +1,7 @@
 {
-  "version": "3.81",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.81.bin",
-  "sig": "Pe5QUeY1WtU4Nca7ImDmSMGOXElWz2rpF7kFPudiFeyBduE9ZjcwxgY2l5v88lJKazuYnWZN0eB8UXk5MOmVAw==",
-  "notes": "Une saisie ne se perd jamais + la bande d'etat des reglages",
+  "version": "3.82",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.82.bin",
+  "sig": "Pjp/bzoS1D6dwELT8oxP4Hvzvls7dihwJfugVzFcl6EgD17wb2EUEAn2qpzvc3q27qIIb4Doha0eMWxppXdIAA==",
+  "notes": "",
   "min": "1.91"
 }
