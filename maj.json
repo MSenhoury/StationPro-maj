@@ -1,15 +1,15 @@
 {
-  "version": "3.22",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.22.bin",
-  "sig": "U266943dNZ7pA/x7FNMmSGWPjdzL7XzpYGx2HirTl959kssOIGzl7Ps75zYKKT0XiIUSOFhqYqKDjFvRDU1OBg==",
-  "notes": "3.22",
+  "version": "3.81",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.81.bin",
+  "sig": "Pe5QUeY1WtU4Nca7ImDmSMGOXElWz2rpF7kFPudiFeyBduE9ZjcwxgY2l5v88lJKazuYnWZN0eB8UXk5MOmVAw==",
+  "notes": "Une saisie ne se perd jamais + la bande d'etat des reglages",
   "min": "1.91",
   "exe": {
-    "version": "3.20.0",
-    "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/StationPro_3.20.0_x64-setup.exe",
-    "sig": "olqR31HojJuRmNoJ/sISo3UbDj8xc61hXrC2eyKlUZkRKy2oOYmx3hazyGVxtp/aKut3Tg+HzlnI42o+np0AAQ==",
-    "sigvc": "2QDZcAsnxeK2sdRqYCD4maTPDpmBENom97dUEmgwguFr/eLzfAK9R+IUL5gu6lrg+wTl9PlqQPUTDhsS46tFCA==",
-    "taille": 4375909,
-    "sha256": "e2a91653d92d0dfb50c0f55ee2a849964a12c78000d33fce2886490ad7d38d75"
+    "version": "3.64.0",
+    "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/StationPro_3.64.0_x64-setup.exe",
+    "sig": "zl8r7eewSey1uuF1zmloQzYKR+jNYVqEG7J3+3dWQOf3pvj8epN/RnjLYjMX6YfYQeokCAwDd80fit0XkdgzAA==",
+    "sigvc": "P+kC59JENj76+jDYtPI4f3LoaV6Rdai1iCFR1FKqvx3cPhmGZibPMFu3EtKbrUW8gkys5Zt9gWq7MDrc59PYDQ==",
+    "taille": 4797963,
+    "sha256": "dca4c3e9daabaca159898ca05be176850876c7242678108d22dc46af1aaa5ec8"
   }
 }
