@@ -3,5 +3,13 @@
   "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.83.bin",
   "sig": "9ZL5hp6zhBFMeCVr703IAhbQrZWA0OTbVtxsbGD9khXQ9Wj0todxQvHT/HP0mTb6Wb7IjG25sSFCrnHp0+g8AA==",
   "notes": "",
-  "min": "1.91"
+  "min": "1.91",
+  "exe": {
+    "version": "3.83.0",
+    "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/StationPro-Essai_3.83.0_x64-setup.exe",
+    "sig": "emdiO/OIS6McXe76wezQNY+LMCAEA6UutlxmGMQNDQ2h/yDWRGDI5m2Quy3DXwcETbbRSlz6FlgnfcQouy0fBQ==",
+    "sigvc": "hhMXmEP6QGDiavAQFWCUDWmSx7+TDNWN+mP454b0OUczQ22FDcZdbCQ/lYNox2KpIJLvbQcYKIPU9CS2p9f8AA==",
+    "taille": 4976396,
+    "sha256": "2f6158098ddaf613098ad338b5f8e21bc9b120ca91464812e675e67ab870fa52"
+  }
 }
