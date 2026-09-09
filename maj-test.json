@@ -1,15 +1,7 @@
 {
-  "version": "3.85",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.85.bin",
-  "sig": "cHUibqUd60TIrFaR/jNNnLIzKLhOOgHTkNoUzeYyVvq701GwugicVMUrNzK8rhmW5g8We80wLGu7D3RnEPMwCw==",
+  "version": "3.86",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.86.bin",
+  "sig": "Y0IiK9PrEQ4QTSTgaRmZ+zrdgjO5gJCEfV3itEPjWpXVVIRPIFkG6ajq8vfDU7XqaQgUqI2yZVBT5257/6BCAQ==",
   "notes": "",
-  "min": "1.91",
-  "exe": {
-    "version": "3.85.0",
-    "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/StationPro-Essai_3.85.0_x64-setup.exe",
-    "sig": "ByprnzNKI1A/q/P4dY0yARPARrLQ23HCL6CQ3zpkvgp8KUfafSn4G3Gf66i9trr5Z28J92+hALOk8ZLKV5JpAw==",
-    "sigvc": "v8XrMJJg+8D2xCt+4hrjhv6jEhDVxjewgCa0SNLFfkpPzkhaBRtNC5mNIRddjLaHszyDIhoYcXkGLM0pu4pDDg==",
-    "taille": 4983309,
-    "sha256": "335199b088587f38d8bc972ee37fc7fdfdf4479519201bd37cb5a9bd9d067918"
-  }
+  "min": "1.91"
 }
