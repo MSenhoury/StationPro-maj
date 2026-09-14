@@ -1,7 +1,7 @@
 {
-  "version": "3.98",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.98.bin",
-  "sig": "NmSZmx4Dj1+z6p/Cqu/VrD1SyTGlv6fl3Sn+iPtUCj5zAy6rAuO0SgbZhbNOvh2mSRhczvsq/qyEv1GzCkKgCQ==",
-  "notes": "v3.98 : la liste des variables, a un seul endroit, qui se verifie elle-meme",
+  "version": "3.99",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.99.bin",
+  "sig": "6nCTRQCuVaWfqA7LfXyps03PD4bgx8HnGJJ4jYfz+R3kMXcV2Wc+sMG3LU6yqs7zxzNhg4GUzQjQDp2AByk3CQ==",
+  "notes": "v3.99 : le test qui jouait aux des repare, admin.js decoupe, un faux vert et un vrai defaut d'essai corriges",
   "min": "1.91"
 }
