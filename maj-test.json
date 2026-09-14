@@ -1,7 +1,7 @@
 {
-  "version": "3.96",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.96.bin",
-  "sig": "mvH9juHEW0gsdVm7oRV5RwSJMcpBh0+v1tPMIHOHBq7ZQyVFSdC1KrHaZ8yHcL9cyzywviKhoyfxblir6cr/Dg==",
-  "notes": "",
+  "version": "3.97",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.97.bin",
+  "sig": "A21tHfGqbflw7sbCg2M2zpT8L5iGY56ccjbYOnHpBEC4qP1E5Ny31JJGhhIZUgk9iZKVe8SpWTkWtmEqEzX5BA==",
+  "notes": "v3.97 : alertes utiles - zero courriel quand rien de neuf, rappels espaces, alertes manquantes, portail ferme au client coupe",
   "min": "1.91"
 }
