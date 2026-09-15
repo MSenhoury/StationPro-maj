@@ -1,7 +1,7 @@
 {
-  "version": "3.99",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.99.bin",
-  "sig": "6nCTRQCuVaWfqA7LfXyps03PD4bgx8HnGJJ4jYfz+R3kMXcV2Wc+sMG3LU6yqs7zxzNhg4GUzQjQDp2AByk3CQ==",
-  "notes": "v3.99 : le test qui jouait aux des repare, admin.js decoupe, un faux vert et un vrai defaut d'essai corriges",
+  "version": "3.100",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-3.100.bin",
+  "sig": "4bzRKiL6V7eZ8X4PS7Sbgg6wJxgE2Nkb/JAoN4O9UuTs27lEjrdjpP6+wMNZnYwdKsik575AP1AfIWpqxpR8DA==",
+  "notes": "v3.100 : la phrase de chiffrement qui change est enfin vue, le faux B2 refuse ce que le vrai refuse, la deconnexion est eprouvee",
   "min": "1.91"
 }
