@@ -1,7 +1,7 @@
 {
-  "version": "4.1",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.1.bin",
-  "sig": "BGFm672/Qwu41hQ7q2WOabEW0vNdINgQgm6poX/fjvUVk/tfMOXJ+JYZTK/AGa5a+IRTMh68ynpCHj3QJ1byBg==",
-  "notes": "v4.1 : l'histoire des paiements (abonnements ecrasait la sienne a chaque renouvellement). Renouveler PROLONGE au lieu de manger les jours restants du client. Le formulaire d'abonnement s'ouvre sur ce que la station a, et annonce la prolongation avant de valider.",
+  "version": "4.2",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.2.bin",
+  "sig": "2nmfF+NDj7/ukCV8kc80RFk7HiY6Zl5LGZLBV+LudYD9Ve2XfvjsEaPX65+8FxX4bbofZwIhWhIavpMRtLLACg==",
+  "notes": "v4.2 : changer le responsable d'une station, par demande et acceptation -- ca n'existait nulle part, il etait gele a vie. La demande ne change rien tant que la station n'a pas accepte. Registre des cles, trois alertes, et la station bloquee en 409 se voit enfin.",
   "min": "1.91"
 }
