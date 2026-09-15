@@ -1,7 +1,7 @@
 {
-  "version": "4.0",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.0.bin",
-  "sig": "J4igiUEWT3Ren9fnuWojd9/Lx+lkcVF1SYCs0yBBAiUiH+pdoaVVNl41isR49wFDj2qgtZHNRIDtNuvJom7bBA==",
-  "notes": "v4.0 : la sauvegarde ne perd plus la licence revoquee, la corbeille des postes ni la chaine des scelles. Ce que le backoffice coupe (employe, PIN) ne se rallume plus au depot suivant. Le filet du schema ne donne plus l'illimite a vie : sept jours et une alerte. Delai de grace de sept jours a la fin d'un abonnement paye.",
+  "version": "4.1",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.1.bin",
+  "sig": "BGFm672/Qwu41hQ7q2WOabEW0vNdINgQgm6poX/fjvUVk/tfMOXJ+JYZTK/AGa5a+IRTMh68ynpCHj3QJ1byBg==",
+  "notes": "v4.1 : l'histoire des paiements (abonnements ecrasait la sienne a chaque renouvellement). Renouveler PROLONGE au lieu de manger les jours restants du client. Le formulaire d'abonnement s'ouvre sur ce que la station a, et annonce la prolongation avant de valider.",
   "min": "1.91"
 }
