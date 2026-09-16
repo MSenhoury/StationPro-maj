@@ -1,7 +1,7 @@
 {
-  "version": "4.4",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.4.bin",
-  "sig": "uXUIUe+a4XMYpcyWk1wFFV0dwMphR53WBzwsa+M6DN/w1R9znXGky99apPqFFulE7qdpmRkF0HAPTKbz+EqECg==",
-  "notes": "4.4 : les essais ne dependent plus du reseau, et une livraison coupee se termine",
+  "version": "4.5",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.5.bin",
+  "sig": "ZLZYjOhY1ZD6wFOl/xeazG3BfaVTnKGDudeSIT1zAQGSRcsrN/WywB4TcxjGMylStp8eJIEqeaSLJLBIeB47AQ==",
+  "notes": "",
   "min": "1.91"
 }
