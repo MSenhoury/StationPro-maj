@@ -1,7 +1,7 @@
 {
-  "version": "4.2",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.2.bin",
-  "sig": "2nmfF+NDj7/ukCV8kc80RFk7HiY6Zl5LGZLBV+LudYD9Ve2XfvjsEaPX65+8FxX4bbofZwIhWhIavpMRtLLACg==",
-  "notes": "v4.2 : changer le responsable d'une station, par demande et acceptation -- ca n'existait nulle part, il etait gele a vie. La demande ne change rien tant que la station n'a pas accepte. Registre des cles, trois alertes, et la station bloquee en 409 se voit enfin.",
+  "version": "4.3",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.3.bin",
+  "sig": "wgcE3OmHo/JvnE7f/PVqfOg6M8cKDk43+nZEou0KYkaFQL69bxAJ+imNfrQX5HCH4GySxeOFrOb8FrEaY8MgBg==",
+  "notes": "v4.3 : les deux boutons qui manquaient. Le delai de grace se voit dans l'application (avec la date d'arret, plus le zero alarmant). Et le changement de responsable peut enfin etre ACCEPTE depuis le poste -- il ne pouvait pas aboutir avant.",
   "min": "1.91"
 }
