@@ -1,7 +1,7 @@
 {
-  "version": "4.3",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.3.bin",
-  "sig": "wgcE3OmHo/JvnE7f/PVqfOg6M8cKDk43+nZEou0KYkaFQL69bxAJ+imNfrQX5HCH4GySxeOFrOb8FrEaY8MgBg==",
-  "notes": "v4.3 : les deux boutons qui manquaient. Le delai de grace se voit dans l'application (avec la date d'arret, plus le zero alarmant). Et le changement de responsable peut enfin etre ACCEPTE depuis le poste -- il ne pouvait pas aboutir avant.",
+  "version": "4.4",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.4.bin",
+  "sig": "uXUIUe+a4XMYpcyWk1wFFV0dwMphR53WBzwsa+M6DN/w1R9znXGky99apPqFFulE7qdpmRkF0HAPTKbz+EqECg==",
+  "notes": "4.4 : les essais ne dependent plus du reseau, et une livraison coupee se termine",
   "min": "1.91"
 }
