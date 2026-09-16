@@ -1,7 +1,7 @@
 {
-  "version": "4.5",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.5.bin",
-  "sig": "ZLZYjOhY1ZD6wFOl/xeazG3BfaVTnKGDudeSIT1zAQGSRcsrN/WywB4TcxjGMylStp8eJIEqeaSLJLBIeB47AQ==",
-  "notes": "",
+  "version": "4.6",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.6.bin",
+  "sig": "NMtFf6KmvvWDJ8Nh8lA3yoeRrNVtO1MJN1qsfnfw28EaII6V8lVD3l+aM/Fz/CQCNelA+F2FlMqyChGQ/Xy0Cg==",
+  "notes": "4.6 : les registres d'une station s'ouvrent enfin ; couper un client devient tout ou rien",
   "min": "1.91"
 }
