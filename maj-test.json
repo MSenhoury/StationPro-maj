@@ -1,7 +1,7 @@
 {
-  "version": "4.7",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.7.bin",
-  "sig": "0vSHA0av/QkXgxZP91LYrI9fe8j85AeJQVnfSri1vZ3/UbAEub5iuKN+nrrv1Hz0vrjMZXnEUv6VZOIqPzBKDg==",
-  "notes": "4.7 : l'ecran ne se fait plus avaler par les barres collantes",
+  "version": "4.8",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.8.bin",
+  "sig": "PgIJefHLuf32+aujrV/p8aWF5UhmZkWXXV+Oq3nQUh7uhtv2NrSjh15MgO8mU9LgbsjTYa+yxv4zQwnnd0GtAQ==",
+  "notes": "4.8 : la mise a jour posee entre en service toute seule, a l'ecran verrouille",
   "min": "1.91"
 }
