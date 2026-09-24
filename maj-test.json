@@ -1,7 +1,7 @@
 {
-  "version": "4.19",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.19.bin",
-  "sig": "BpEmJZ9yhMMCiC18gnDAEqH7rxX4oHwan6UMYeyBSYNwOWWMw0/p03ybeIVqhwSnpVd36iUrLDWYzy+5FRFrAQ==",
-  "notes": "4.19 - station sans responsable : les cles se posent tout de suite par le fournisseur (personne ne peut accepter)",
+  "version": "4.20",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.20.bin",
+  "sig": "/YuZ4WzPtD5lXSmF2pBswKej6jH3iGyuIgvDWcDI/e0EnX+iNlZPXva0oYofieMcpNk6wqBKdMG560LS/2qcBQ==",
+  "notes": "",
   "min": "1.91"
 }
