@@ -1,8 +1,8 @@
 {
-  "version": "4.27",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.27.bin",
-  "sig": "WQR8uewmGaKD4ZzaoCLpPse79+asOV+iUOBWWH8jpnRUyRTfs/LlOW08nwjLuEK7mE2DX5GYzDWvggQCWfPUCA==",
-  "notes": "v4.27 : caisse - prix du jour, dette ancienne, correction fournisseur et alignement signes par le proprietaire avec motif ; la cloture refuse un bon sans client et une livraison sans prix ; une journee signee reclôturee garde sa feuille d'avant",
+  "version": "4.28",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.28.bin",
+  "sig": "41M+ajgCXTYcR3brNixtI1ASVFEOYy9/SIappR81TtKght7Gp2gsmgMmydULkVBOvYrgRwUZJvG9f/zPrKWRAQ==",
+  "notes": "",
   "min": "1.91",
   "exe": {
     "version": "3.85.0",
