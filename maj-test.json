@@ -1,7 +1,7 @@
 {
-  "version": "4.47",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.47.bin",
-  "sig": "huPrzEg9DSdd9nJ2IN0pp4A2MFW1x761N07+fXyhSD1F6BFmkhRFAWbXSoIZiZZ4GyuzQful7ykXeQ3pxJYUAQ==",
-  "notes": "v4.47 — lot D : ristourne en double au casier (Remettre à la place), avant-adoption en fichier horodaté, contrôle permanent : le chargement ne change aucun chiffre signé",
+  "version": "4.49",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.49.bin",
+  "sig": "ICD+0fytB/bEk0q3qZ0x3nYWQEBUmtB5Ol8Qbi8+8/QYYAG5W+1h1SFBRqAMM6cU88uaMdFN0jLLJYsjnrIUBw==",
+  "notes": "v4.49 — dépôt allégé : une frappe voyage seule (delta sur l'ancêtre, entier en repli)",
   "min": "1.91"
 }
