@@ -1,8 +1,8 @@
 {
-  "version": "4.42",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.42.bin",
-  "sig": "Ta1MXqHeW6LRbDwjGE8QHACBdeCOEMoSMkSWhn9x/83F3sKIDaX0hVauIzetUE8jFF2Ua22bvQOOXjYK2h6xCg==",
-  "notes": "",
+  "version": "4.45",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.45.bin",
+  "sig": "6Yi3u98GsYoJmEfGvRTWXgqBm8vA5IigM3eG+TvUro/ACAxT3x4RZgWm7iP7lPtjCrCpT6nWWSSzOES7o6elCQ==",
+  "notes": "v4.45 — lot B : champs du poste hors du dépôt, traces de suppression à trois, dette de transport suit la journée, courriels backoffice dédoublonnés",
   "min": "1.91",
   "exe": {
     "version": "3.85.0",
