@@ -1,7 +1,7 @@
 {
-  "version": "4.42",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.42.bin",
-  "sig": "Ta1MXqHeW6LRbDwjGE8QHACBdeCOEMoSMkSWhn9x/83F3sKIDaX0hVauIzetUE8jFF2Ua22bvQOOXjYK2h6xCg==",
-  "notes": "",
+  "version": "4.44",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.44.bin",
+  "sig": "vqcnTWv7rZaAZAmhZtDE31HuXBIVfXfhKVH1KIserWJg8+a5NyI920BfJ9nS71sDTmp0DALiZReSyA1RZ/3uDg==",
+  "notes": "Reunion des deux postes : la cloture gagne toujours, rien n'entre dans une journee cloturee sans deverrouillage, premiere signature gardee en entier ; serveur : revision jamais reutilisee, 409 sur verrou, journal des sceaux apres commit",
   "min": "1.91"
 }
