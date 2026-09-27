@@ -1,8 +1,8 @@
 {
-  "version": "4.49",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.49.bin",
-  "sig": "ICD+0fytB/bEk0q3qZ0x3nYWQEBUmtB5Ol8Qbi8+8/QYYAG5W+1h1SFBRqAMM6cU88uaMdFN0jLLJYsjnrIUBw==",
-  "notes": "v4.49 — dépôt allégé : une frappe voyage seule (delta sur l'ancêtre, entier en repli)",
+  "version": "4.51",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.51.bin",
+  "sig": "h1oKSnp3i1LbsJsotJljA54VqR3UmWmFKU0MyanncQUeh2waF8r892dxo66IVb923AKQb7HGkdiJAE59qnVUDA==",
+  "notes": "v4.51 — poste tablette : l'app sur tablette (caisse ou gérant), même fichier signé et même mise à jour que les PC, porte client + option de l'offre ; note d'ancien versement lisible sur journée clôturée",
   "min": "1.91",
   "exe": {
     "version": "3.85.0",
