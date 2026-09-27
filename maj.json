@@ -1,8 +1,8 @@
 {
-  "version": "4.46",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.46.bin",
-  "sig": "eBVAzBzln6FFOoawnX6sbier67Ky1gx6WTyrYUoZ+5Vae09FjZrbV7dUW/nY9MuAVEHN9hEb2cG1qC9hwc+cBA==",
-  "notes": "v4.46 — lot C : 409 gratuit, travail lourd hors du verrou, factures posées seulement si elles changent, mémo plafonné, sceaux bornés ; code agent sur la facture",
+  "version": "4.47",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.47.bin",
+  "sig": "huPrzEg9DSdd9nJ2IN0pp4A2MFW1x761N07+fXyhSD1F6BFmkhRFAWbXSoIZiZZ4GyuzQful7ykXeQ3pxJYUAQ==",
+  "notes": "v4.47 — lot D : ristourne en double au casier (Remettre à la place), avant-adoption en fichier horodaté, contrôle permanent : le chargement ne change aucun chiffre signé",
   "min": "1.91",
   "exe": {
     "version": "3.85.0",
