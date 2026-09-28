@@ -1,7 +1,7 @@
 {
-  "version": "4.52",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.52.bin",
-  "sig": "gRjUBVDF58hEHaY+D7NUajE1LnFEHbCE1YNeB2uipCCjM5PHvDUoYiJnb8PCWWCefgI+ZxCs3HR2PY4L/klbCQ==",
-  "notes": "v4.52 — tablette : stockage à elle (ne reprend plus la copie du portail), ne fait jamais monter de données, écran « Reliez cette tablette »",
+  "version": "4.54",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.54.bin",
+  "sig": "YiuoAWjHHqmfQyPx1mDJWB1P3BXHd4dsLU/n6l0ddHpbj8Rd1Yj1XElC8Oj5gK3HKxjtw2K8OZ33P2+YyeX9Aw==",
+  "notes": "v4.54 — ce qui est validé est enregistré : une fenêtre ouverte retient la réception (v4.53), les 12 remplacements de la base contrôlés à chaque livraison, témoin au journal",
   "min": "1.91"
 }
