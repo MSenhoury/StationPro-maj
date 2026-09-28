@@ -1,7 +1,7 @@
 {
-  "version": "4.54",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.54.bin",
-  "sig": "YiuoAWjHHqmfQyPx1mDJWB1P3BXHd4dsLU/n6l0ddHpbj8Rd1Yj1XElC8Oj5gK3HKxjtw2K8OZ33P2+YyeX9Aw==",
-  "notes": "v4.54 — ce qui est validé est enregistré : une fenêtre ouverte retient la réception (v4.53), les 12 remplacements de la base contrôlés à chaque livraison, témoin au journal",
+  "version": "4.55",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.55.bin",
+  "sig": "Sl+bGvdrTauqCq2JB+JQrfmxDXDOfyhN71GJBEvhxYjzbC0nT7WTN0T33GlwDifjk0tsMm5o8Ht9RVXlDFWKCA==",
+  "notes": "v4.55 — le brouillon ne se perd plus : écrit même si les données sont rechargées pendant la frappe, et Valider ne l'efface qu'après avoir relu la saisie dans les données",
   "min": "1.91"
 }
