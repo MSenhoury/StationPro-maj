@@ -1,7 +1,7 @@
 {
-  "version": "4.58",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.58.bin",
-  "sig": "GPkBq3jIgqxK6PiszzI5aC0zRoG7LROGBIhE+BDsxog06RLGTWMQxUS9FloXM7YcQT7MWZMke6rY2MJzjue7Aw==",
-  "notes": "4.58 : paiement fournisseur en tableau des parts (saisie et modification) ; TPE ou ristourne d'un geste ; montants avec espaces des l'ouverture",
+  "version": "4.59",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.59.bin",
+  "sig": "nE490waZeL1BhMPWP3Y52OE/uyAtt51uSSWGIn7kfRZnoXz7pCVecXIJ77UV6n+3G5jkcEfoorrviymEDK9CBA==",
+  "notes": "4.59 : ristourne - chaque bon dit ou et quand il a servi, avec lien vers le paiement",
   "min": "1.91"
 }
