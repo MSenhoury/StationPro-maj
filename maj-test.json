@@ -1,7 +1,7 @@
 {
-  "version": "4.55",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.55.bin",
-  "sig": "Sl+bGvdrTauqCq2JB+JQrfmxDXDOfyhN71GJBEvhxYjzbC0nT7WTN0T33GlwDifjk0tsMm5o8Ht9RVXlDFWKCA==",
-  "notes": "v4.55 — le brouillon ne se perd plus : écrit même si les données sont rechargées pendant la frappe, et Valider ne l'efface qu'après avoir relu la saisie dans les données",
+  "version": "4.56",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.56.bin",
+  "sig": "rNDFuhhacodWqvvyDQUezB5tcOiMzdfscpQJ65/k5Zpubln36U8BlVeKFl4yLE9mWoloahkru+8YuHhTp9T+Cg==",
+  "notes": "4.56 : plus de messages quand l'autre poste enregistre ; fausse alerte poste inactif retiree",
   "min": "1.91"
 }
