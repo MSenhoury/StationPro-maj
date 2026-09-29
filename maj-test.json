@@ -1,7 +1,7 @@
 {
-  "version": "4.56",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.56.bin",
-  "sig": "rNDFuhhacodWqvvyDQUezB5tcOiMzdfscpQJ65/k5Zpubln36U8BlVeKFl4yLE9mWoloahkru+8YuHhTp9T+Cg==",
-  "notes": "4.56 : plus de messages quand l'autre poste enregistre ; fausse alerte poste inactif retiree",
+  "version": "4.57",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.57.bin",
+  "sig": "xmEI/nkwxBau4sS8J5shAWguXIKvSrtUBLvsGzuQFLDZW9G4uHVvg04/VVZJomv1yZKCfn22Wul7Vt/W24gPDA==",
+  "notes": "4.57 : paiement fournisseur - cheque, TPE et bon se corrigent ensemble ; reste de chaque bon de ristourne par mois ; Publier reprend un envoi coupe",
   "min": "1.91"
 }
