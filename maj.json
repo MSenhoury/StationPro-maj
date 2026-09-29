@@ -1,8 +1,8 @@
 {
-  "version": "4.57",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.57.bin",
-  "sig": "xmEI/nkwxBau4sS8J5shAWguXIKvSrtUBLvsGzuQFLDZW9G4uHVvg04/VVZJomv1yZKCfn22Wul7Vt/W24gPDA==",
-  "notes": "4.57 : paiement fournisseur - cheque, TPE et bon se corrigent ensemble ; reste de chaque bon de ristourne par mois ; Publier reprend un envoi coupe",
+  "version": "4.58",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.58.bin",
+  "sig": "GPkBq3jIgqxK6PiszzI5aC0zRoG7LROGBIhE+BDsxog06RLGTWMQxUS9FloXM7YcQT7MWZMke6rY2MJzjue7Aw==",
+  "notes": "4.58 : paiement fournisseur en tableau des parts (saisie et modification) ; TPE ou ristourne d'un geste ; montants avec espaces des l'ouverture",
   "min": "1.91",
   "exe": {
     "version": "3.85.0",
