@@ -1,8 +1,8 @@
 {
-  "version": "4.55",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.55.bin",
-  "sig": "Sl+bGvdrTauqCq2JB+JQrfmxDXDOfyhN71GJBEvhxYjzbC0nT7WTN0T33GlwDifjk0tsMm5o8Ht9RVXlDFWKCA==",
-  "notes": "v4.55 — le brouillon ne se perd plus : écrit même si les données sont rechargées pendant la frappe, et Valider ne l'efface qu'après avoir relu la saisie dans les données",
+  "version": "4.57",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.57.bin",
+  "sig": "xmEI/nkwxBau4sS8J5shAWguXIKvSrtUBLvsGzuQFLDZW9G4uHVvg04/VVZJomv1yZKCfn22Wul7Vt/W24gPDA==",
+  "notes": "4.57 : paiement fournisseur - cheque, TPE et bon se corrigent ensemble ; reste de chaque bon de ristourne par mois ; Publier reprend un envoi coupe",
   "min": "1.91",
   "exe": {
     "version": "3.85.0",
