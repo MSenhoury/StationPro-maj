@@ -1,7 +1,7 @@
 {
-  "version": "4.59",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.59.bin",
-  "sig": "nE490waZeL1BhMPWP3Y52OE/uyAtt51uSSWGIn7kfRZnoXz7pCVecXIJ77UV6n+3G5jkcEfoorrviymEDK9CBA==",
-  "notes": "4.59 : ristourne - chaque bon dit ou et quand il a servi, avec lien vers le paiement",
+  "version": "4.60",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.60.bin",
+  "sig": "tVVv2WkY7LPYO5O1y6WYYDtSp+qRqOlFgqhHG7u6S7bWQNZzIpnj4Led7WK9KT9zyImzeTMmBMMtG6Z4FMdZBw==",
+  "notes": "4.60 : ristourne - le bon donne est le bon compte (choix Quel bon, montant exact) ; liens directs vers la ligne exacte (Comptes, paiement)",
   "min": "1.91"
 }
