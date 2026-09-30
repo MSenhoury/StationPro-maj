@@ -1,7 +1,7 @@
 {
-  "version": "4.60",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.60.bin",
-  "sig": "tVVv2WkY7LPYO5O1y6WYYDtSp+qRqOlFgqhHG7u6S7bWQNZzIpnj4Led7WK9KT9zyImzeTMmBMMtG6Z4FMdZBw==",
-  "notes": "4.60 : ristourne - le bon donne est le bon compte (choix Quel bon, montant exact) ; liens directs vers la ligne exacte (Comptes, paiement)",
+  "version": "4.61",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.61.bin",
+  "sig": "3BAvUHGMJkyrMnd0Su9oQwexnf3jG8ET6nXg1BfDEMvXEWSc+f2/U1th6Uew/YgTeqLi8EBBveI6HK8jVq5KCw==",
+  "notes": "4.61 : le bon du mois d'avant, automatiquement (plus de Quel bon) ; Fournisseur : plus de saut a la recherche, molette libre",
   "min": "1.91"
 }
