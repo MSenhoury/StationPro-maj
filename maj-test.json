@@ -1,7 +1,7 @@
 {
-  "version": "4.61",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.61.bin",
-  "sig": "3BAvUHGMJkyrMnd0Su9oQwexnf3jG8ET6nXg1BfDEMvXEWSc+f2/U1th6Uew/YgTeqLi8EBBveI6HK8jVq5KCw==",
-  "notes": "4.61 : le bon du mois d'avant, automatiquement (plus de Quel bon) ; Fournisseur : plus de saut a la recherche, molette libre",
+  "version": "4.62",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.62.bin",
+  "sig": "I2BcOo3kbPBTBYxBeAN8266AF9AP2FPjjdYPS/B0MEQdR2zxbjRWrNGEpQOP2UwCQqhC9hjX9RPEjh9ZXDviDg==",
+  "notes": "4.62 : ristourne - chaque bon dit son mois, bon oublie en rouge avec Ajouter / Corriger le paiement, trop-paye par ligne ; aide Ctrl+K sans lettre perdue",
   "min": "1.91"
 }
