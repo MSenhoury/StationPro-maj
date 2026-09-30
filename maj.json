@@ -1,8 +1,8 @@
 {
-  "version": "4.62",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.62.bin",
-  "sig": "I2BcOo3kbPBTBYxBeAN8266AF9AP2FPjjdYPS/B0MEQdR2zxbjRWrNGEpQOP2UwCQqhC9hjX9RPEjh9ZXDviDg==",
-  "notes": "4.62 : ristourne - chaque bon dit son mois, bon oublie en rouge avec Ajouter / Corriger le paiement, trop-paye par ligne ; aide Ctrl+K sans lettre perdue",
+  "version": "4.63",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.63.bin",
+  "sig": "Q/Q5OSUqUTqdozpbHuTxQRsl8wi30OUVvYR6qimLMfh7HqhBU3AoUSRVXgkPATVfBYXN7lWcQQ/agTp7eO9iDw==",
+  "notes": "4.63 : QR de verification (releve client, rapport fournisseur) ; bouton Payer du salaire toujours visible ; rapport du mois : fournisseurs en litres, montants a part, sans solde du ; paye fournisseur corrige",
   "min": "1.91",
   "exe": {
     "version": "3.85.0",
