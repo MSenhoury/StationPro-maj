@@ -1,8 +1,8 @@
 {
-  "version": "4.63",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.63.bin",
-  "sig": "Q/Q5OSUqUTqdozpbHuTxQRsl8wi30OUVvYR6qimLMfh7HqhBU3AoUSRVXgkPATVfBYXN7lWcQQ/agTp7eO9iDw==",
-  "notes": "4.63 : QR de verification (releve client, rapport fournisseur) ; bouton Payer du salaire toujours visible ; rapport du mois : fournisseurs en litres, montants a part, sans solde du ; paye fournisseur corrige",
+  "version": "4.64",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.64.bin",
+  "sig": "IQ1/OReprzbeGlH0inEHwx5PhziKNysznxR38uW/6uZLc7KHxgK3r5zsBzaWZNDj1o8voox/9SMw968EfIquAg==",
+  "notes": "4.64 : un paiement supprime ne revient plus d'un autre poste ; anciens paiements lies ; numero en double visible et supprimable ; QR en premiere page",
   "min": "1.91",
   "exe": {
     "version": "3.85.0",
