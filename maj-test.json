@@ -1,7 +1,7 @@
 {
-  "version": "4.64",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.64.bin",
-  "sig": "IQ1/OReprzbeGlH0inEHwx5PhziKNysznxR38uW/6uZLc7KHxgK3r5zsBzaWZNDj1o8voox/9SMw968EfIquAg==",
-  "notes": "4.64 : un paiement supprime ne revient plus d'un autre poste ; anciens paiements lies ; numero en double visible et supprimable ; QR en premiere page",
+  "version": "4.65",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.65.bin",
+  "sig": "lz4M8VoNHxwTn5FT9rDxl3f5l9DRdEd/gXzfb5JRi0G50PgBITuoeLXNK7ooXiGCwnLEaNB7Ur+LT1Ax7VPKAg==",
+  "notes": "4.65 : le reste d'un paiement supprime est liste et supprimable ; le refus de numero mene a la ligne ; jamais un paiement supprime a moitie",
   "min": "1.91"
 }
