@@ -1,7 +1,7 @@
 {
-  "version": "4.85",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.85.bin",
-  "sig": "wZANIHDN7HEv8pRQFybUDNxO6j/mdlAXo1WAJQGlS1hKCdRjdGtHerB0DK5D+uGM10HkRupq5+NS8Wm9pyNcBw==",
-  "notes": "v4.85 : portefeuilles, ristourne, deux appareils, mise à jour, accès, création de station, design et animations",
+  "version": "4.89",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.89.bin",
+  "sig": "PVQuvPJOeWlcDRP43itsAnhog3m//mfJDFdyUDizhp/M6DR+Z6plpEt33aBzIzprgypmGiZjyimfdof9efhkDQ==",
+  "notes": "v4.89 : WhatsApp (messages, bot, pièces, incidents)",
   "min": "1.91"
 }
