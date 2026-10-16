@@ -1,7 +1,7 @@
 {
-  "version": "4.72",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.72.bin",
-  "sig": "4DnrrdUGcbY9YmeEV2CGTpF8b7KMc6PxEqX0GwoLwUq9JUA3ydXfQ9j30q/vHgZj2VKR1W/1yo5LbUBp0IS+Bw==",
-  "notes": "v4.73",
+  "version": "4.85",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.85.bin",
+  "sig": "wZANIHDN7HEv8pRQFybUDNxO6j/mdlAXo1WAJQGlS1hKCdRjdGtHerB0DK5D+uGM10HkRupq5+NS8Wm9pyNcBw==",
+  "notes": "v4.85 : portefeuilles, ristourne, deux appareils, mise à jour, accès, création de station, design et animations",
   "min": "1.91"
 }
