@@ -1,7 +1,7 @@
 {
-  "version": "4.90",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.90.bin",
-  "sig": "39yTPFWLhxRcIpWm/Xys2m83fk5s4ve4JbOeHMVjn+gs/mY8tve8Wq0yxcyv7LkUGtdC+3/KsRmTm2blZ9daCw==",
-  "notes": "v4.90 : WhatsApp un seul bouton, menus du bot, abonnement Meta automatique",
+  "version": "4.91",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.91.bin",
+  "sig": "aGXkNOqdj3nRSdss7fBa5eVIS9NDa59wUwDCB/YQByfzvGjNV8FMXF0r798sgHBwTR7Ove1v9G7kyrhg9ldeAw==",
+  "notes": "v4.91 : portefeuilles numérotés et passages, bons visibles, pompiste proposé",
   "min": "1.91"
 }
