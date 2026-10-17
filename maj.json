@@ -1,8 +1,8 @@
 {
-  "version": "4.92",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.92.bin",
-  "sig": "jQ9O/WTwJYWkN7VRvsV4DcUJUh5s3+0T/4VcW9riGKlELUiVMvgBbt+EvM0BwngrSLQLuq6x7XIXr17n/IuoAA==",
-  "notes": "v4.92 : pompiste sur les bons, encaissé par facultatif, fenêtre WhatsApp sobre",
+  "version": "4.93",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.93.bin",
+  "sig": "Eew8bTJXZO5XyQDVnv6TAk1waw4gln3Bp5WfdKeNwpxNA9yl5nxQBoG37e5lEHHYLOmeT5NKk28Lg7QZhJxTAQ==",
+  "notes": "v4.93 : incidents (rouvrir, modifier, annuler), état WhatsApp, cloche",
   "min": "1.91",
   "exe": {
     "version": "3.85.0",
