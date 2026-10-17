@@ -1,7 +1,7 @@
 {
-  "version": "4.89",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.89.bin",
-  "sig": "PVQuvPJOeWlcDRP43itsAnhog3m//mfJDFdyUDizhp/M6DR+Z6plpEt33aBzIzprgypmGiZjyimfdof9efhkDQ==",
-  "notes": "v4.89 : WhatsApp (messages, bot, pièces, incidents)",
+  "version": "4.90",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.90.bin",
+  "sig": "39yTPFWLhxRcIpWm/Xys2m83fk5s4ve4JbOeHMVjn+gs/mY8tve8Wq0yxcyv7LkUGtdC+3/KsRmTm2blZ9daCw==",
+  "notes": "v4.90 : WhatsApp un seul bouton, menus du bot, abonnement Meta automatique",
   "min": "1.91"
 }
