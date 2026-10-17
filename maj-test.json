@@ -1,7 +1,7 @@
 {
-  "version": "4.91",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.91.bin",
-  "sig": "aGXkNOqdj3nRSdss7fBa5eVIS9NDa59wUwDCB/YQByfzvGjNV8FMXF0r798sgHBwTR7Ove1v9G7kyrhg9ldeAw==",
-  "notes": "v4.91 : portefeuilles numérotés et passages, bons visibles, pompiste proposé",
+  "version": "4.92",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.92.bin",
+  "sig": "jQ9O/WTwJYWkN7VRvsV4DcUJUh5s3+0T/4VcW9riGKlELUiVMvgBbt+EvM0BwngrSLQLuq6x7XIXr17n/IuoAA==",
+  "notes": "v4.92 : pompiste sur les bons, encaissé par facultatif, fenêtre WhatsApp sobre",
   "min": "1.91"
 }
