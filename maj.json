@@ -1,8 +1,8 @@
 {
-  "version": "5.2",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-5.2.bin",
-  "sig": "FfxD8iinenL27z1yvEXO8ZRkiEV3CJB/cz0CD17KB8Cn93L4Ro9CFLk4R8lzxiWHvj/TL+m8wGPlome66jHSAg==",
-  "notes": "V5.2 : WhatsApp pro, pièces jointes paiements, numéro fournisseur, Messages pleine hauteur",
+  "version": "5.4",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-5.4.bin",
+  "sig": "OnHOF4V5srFn9c2wclqKu82JSAVr+Jx6QgOFmOJfaGMXbaCbrprbBmnByCD9cdG4C+ref4o68SD39IzpTUB8Dg==",
+  "notes": "v5.4 : rôles WhatsApp (pompiste, fournisseur), pièce jointe et suivi WhatsApp du paiement, lignes Comptes et Fournisseur lisibles",
   "min": "1.91",
   "exe": {
     "version": "3.85.0",
