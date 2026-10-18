@@ -1,7 +1,7 @@
 {
-  "version": "5.4",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-5.4.bin",
-  "sig": "OnHOF4V5srFn9c2wclqKu82JSAVr+Jx6QgOFmOJfaGMXbaCbrprbBmnByCD9cdG4C+ref4o68SD39IzpTUB8Dg==",
-  "notes": "v5.4 : rôles WhatsApp (pompiste, fournisseur), pièce jointe et suivi WhatsApp du paiement, lignes Comptes et Fournisseur lisibles",
+  "version": "5.5",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-5.5.bin",
+  "sig": "Un1OkjbNecF1zK06fWGmO3u1Tekds9EQQ0yubadqZWrhkN8wlywtj3/O0cTh1fUByZgIaTigiErumA390BSSCQ==",
+  "notes": "v5.5 : la fiche fournisseur gère le numéro WhatsApp et le fournisseur principal (pannes et index)",
   "min": "1.91"
 }
