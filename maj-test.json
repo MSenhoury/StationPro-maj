@@ -1,7 +1,7 @@
 {
-  "version": "4.93",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.93.bin",
-  "sig": "Eew8bTJXZO5XyQDVnv6TAk1waw4gln3Bp5WfdKeNwpxNA9yl5nxQBoG37e5lEHHYLOmeT5NKk28Lg7QZhJxTAQ==",
-  "notes": "v4.93 : incidents (rouvrir, modifier, annuler), état WhatsApp, cloche",
+  "version": "4.100",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-4.100.bin",
+  "sig": "YpTgIHpMkVh319HvTJDlF32ZKvwF2UProOazxCQOhk1v5l5mQvsx5mi/JHM72OlgYtfOQYfVyb16y8v8krykCA==",
+  "notes": "V5 WhatsApp pro",
   "min": "1.91"
 }
