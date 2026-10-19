@@ -1,8 +1,8 @@
 {
-  "version": "5.7",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-5.7.bin",
-  "sig": "p/QJbJv6Nf9DZJP4zNx0/pk5Yao/6m4UT91NcjlzpIw9ZzGT5xRH/oe26oIjHvo2VAAejghKEyJpCHbnM0d9BA==",
-  "notes": "v5.7 : visionneuse pour toutes les pièces jointes (PDF, photos : zoom, rotation, télécharger, imprimer)",
+  "version": "5.8",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-5.8.bin",
+  "sig": "mruLDmTkWKhSsvOx4dm8+dEz9ouJwMgmyl0XTlSf1M8gzNg32wcmgc2g2gcBho++QZT31CvVzmKMXyY+JTLSAg==",
+  "notes": "v5.8 : QR code et versions sur la saisie du jour, les documents fournisseur et les PDF du bot ; PDF revus",
   "min": "1.91",
   "exe": {
     "version": "3.85.0",
