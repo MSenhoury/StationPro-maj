@@ -1,7 +1,7 @@
 {
-  "version": "5.5",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-5.5.bin",
-  "sig": "Un1OkjbNecF1zK06fWGmO3u1Tekds9EQQ0yubadqZWrhkN8wlywtj3/O0cTh1fUByZgIaTigiErumA390BSSCQ==",
-  "notes": "v5.5 : la fiche fournisseur gère le numéro WhatsApp et le fournisseur principal (pannes et index)",
+  "version": "5.6",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-5.6.bin",
+  "sig": "laLydoQ1ZKZwuATkbH/O4i6m1EdhKT6hKP9V0Yb8Mih4eSt5By/tzH1EKUpbl5wEfG6ZRAU2i1aPQ86wbOOVCg==",
+  "notes": "v5.6 : fiche fournisseur épurée, Principal une fois, réglages dans le menu",
   "min": "1.91"
 }
