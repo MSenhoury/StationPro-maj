@@ -1,7 +1,7 @@
 {
-  "version": "5.9",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-5.9.bin",
-  "sig": "J/ZT1tj8AzpTdz4soROmCTXqrfMS7lrj7/2vkzdH/kXAZMXGH91p12H3NdVoftgudJOMDyobF6MJzPUvK/zQBQ==",
-  "notes": "v5.9 : Doit identique partout, matricule des bons, fiche client en un clic, message du rapport avec ses chiffres, nouvelle ligne à la réouverture",
+  "version": "5.10",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-5.10.bin",
+  "sig": "wd+s6/PAQZdN73WuI2q7xlJr1wHuOtwQRYmn0Vn37MIhnUfWl72f7v0JgviDfwQockw22rYq7uEKvPq/YgyMAw==",
+  "notes": "v5.10 : une saisie de portefeuille non validée ne disparaît plus (verrouillage, brouillon, Reprendre qui ajoute, clôture protégée)",
   "min": "1.91"
 }
