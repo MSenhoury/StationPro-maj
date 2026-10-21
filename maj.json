@@ -1,8 +1,8 @@
 {
-  "version": "5.14",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-5.14.bin",
-  "sig": "evL7CnY1+nderAwpnHuf2lwa7mhXUF7PX7/Ok6aVDF9MDeIE8EETR6qI/6x9vr3oMRqE84xq0x3m23dzScsTCw==",
-  "notes": "v5.14 : Valider confirmé (Validation en cours… / ✓ Validé / Échec) ; fermeture, veille et arrêt sûrs",
+  "version": "5.16",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-5.16.bin",
+  "sig": "YxzWgXoXlHWUnyXdEK7kz8lFDDZJ4EOkHrr8zyKMxAIJU//mZh5cAABByg2gCvlaFox8498eFsiao4dnwNWIBQ==",
+  "notes": "v5.17 : fausse alerte de clôture corrigée",
   "min": "1.91",
   "exe": {
     "version": "5.14.0",
