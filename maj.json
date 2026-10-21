@@ -1,15 +1,15 @@
 {
-  "version": "5.10",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-5.10.bin",
-  "sig": "wd+s6/PAQZdN73WuI2q7xlJr1wHuOtwQRYmn0Vn37MIhnUfWl72f7v0JgviDfwQockw22rYq7uEKvPq/YgyMAw==",
-  "notes": "v5.10 : une saisie de portefeuille non validée ne disparaît plus (verrouillage, brouillon, Reprendre qui ajoute, clôture protégée)",
+  "version": "5.14",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-5.14.bin",
+  "sig": "evL7CnY1+nderAwpnHuf2lwa7mhXUF7PX7/Ok6aVDF9MDeIE8EETR6qI/6x9vr3oMRqE84xq0x3m23dzScsTCw==",
+  "notes": "v5.14 : Valider confirmé (Validation en cours… / ✓ Validé / Échec) ; fermeture, veille et arrêt sûrs",
   "min": "1.91",
   "exe": {
-    "version": "3.85.0",
-    "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/StationPro_3.85.0_x64-setup.exe",
-    "sig": "hFYn4x+ao4JOxfRXpFytzHl8js77nniPBP9KLBXN5ujRhc3jLXGdbK8lKMa/qML1fqSCq+ANnZ2b5kGQd7xuAg==",
-    "sigvc": "MKtiMESy+On0DA5MGK/8S63OYegkN61nZeGL17Gwh6H0NZ6vxRZOtbnZZ154a0q1oHcnwrhrB7CKKT8y7uoeDQ==",
-    "taille": 4982466,
-    "sha256": "655e36f66ab606512148c40fe1e16d66afeae16607d621104b6587d41af1b393"
+    "version": "5.14.0",
+    "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/StationPro_5.14.0_x64-setup.exe",
+    "sig": "dvtvPY1qQRtZEZpZ9oN3T2VjQnba8vWKXEDyGLRmvd+ido15O91Xhp36AEqX2NuOPUWTWrQtG+bFcHYOb8idCg==",
+    "sigvc": "OwKRy10U+77lZuhb4QJIXgNgQmA84nxlMXqnXknJrEsXoCMNwZCCEhyV4hwPfsLKsxKJ8TnO94Y55nNeirmUCQ==",
+    "taille": 6867825,
+    "sha256": "d81945d27acf13f721a88f89f6319906676634337bb53f1a751e9fad2134ae8c"
   }
 }
