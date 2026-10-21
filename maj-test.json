@@ -1,7 +1,7 @@
 {
-  "version": "5.16",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-5.16.bin",
-  "sig": "YxzWgXoXlHWUnyXdEK7kz8lFDDZJ4EOkHrr8zyKMxAIJU//mZh5cAABByg2gCvlaFox8498eFsiao4dnwNWIBQ==",
-  "notes": "v5.17 : fausse alerte de clôture corrigée",
+  "version": "5.18",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-5.18.bin",
+  "sig": "tP6uLZMgMrHWqsZn6dphFHXuKYThmDg/Z6P+q+pzLp2h3XcMoCth2Knq3DWdIlY5YvVpJjJgo+MV2ENDcpVWAg==",
+  "notes": "v5.18 : écran Pertes de la cuve, fausse alerte de clôture corrigée",
   "min": "1.91"
 }
