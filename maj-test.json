@@ -1,7 +1,7 @@
 {
-  "version": "5.18",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-5.18.bin",
-  "sig": "tP6uLZMgMrHWqsZn6dphFHXuKYThmDg/Z6P+q+pzLp2h3XcMoCth2Knq3DWdIlY5YvVpJjJgo+MV2ENDcpVWAg==",
-  "notes": "v5.18 : écran Pertes de la cuve, fausse alerte de clôture corrigée",
+  "version": "5.20",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-5.20.bin",
+  "sig": "G9HIDg9sF/dbuwnVhk3Vcms0Ba4Ef0kpXWtTwmd2R5cgNoI2y7h6giatmLxGNRuf76c0EPHajKU5UGC9gsM3BQ==",
+  "notes": "v5.19 : logo de chaque portefeuille dans la Saisie du jour",
   "min": "1.91"
 }
