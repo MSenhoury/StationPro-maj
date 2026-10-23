@@ -1,8 +1,8 @@
 {
-  "version": "5.20",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-5.20.bin",
-  "sig": "G9HIDg9sF/dbuwnVhk3Vcms0Ba4Ef0kpXWtTwmd2R5cgNoI2y7h6giatmLxGNRuf76c0EPHajKU5UGC9gsM3BQ==",
-  "notes": "v5.19 : logo de chaque portefeuille dans la Saisie du jour",
+  "version": "5.25",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-5.25.bin",
+  "sig": "2bZsf7QSfTYty5Qgh1xo2hBUsgjQhXdm88uYPCCfLB29+0KkzFUbPeCBEn6bENT/bUeGF5T8elHkTWZlLGAOAA==",
+  "notes": "5.25 : bons (essence avant le prix), croix qui supprimait la mauvaise ligne, analyse des cuves",
   "min": "1.91",
   "exe": {
     "version": "5.14.0",
