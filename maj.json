@@ -1,8 +1,8 @@
 {
-  "version": "5.26",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-5.26.bin",
-  "sig": "ZGc0N2bSc/2F/MZu3lN+Rc99C84ga85BTooP9yeK3d48s1k4nNjA5kIYXYorCKvryQe1+lS+oAF/DDJy6YRDDQ==",
-  "notes": "5.26 : message du rapport du jour comme avant",
+  "version": "5.27",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-5.27.bin",
+  "sig": "fiXfKebFH6+dtR95k7nozInGqtrDmLz0nVGjR1sroI7C4Yj1eq94vZEfawi6l+/7AvN7LaIh41vzlxbbbziXCQ==",
+  "notes": "5.27 : erreurs tracées, 1er message du rapport, correctifs",
   "min": "1.91",
   "exe": {
     "version": "5.14.0",
