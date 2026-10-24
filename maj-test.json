@@ -1,7 +1,7 @@
 {
-  "version": "5.25",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-5.25.bin",
-  "sig": "2bZsf7QSfTYty5Qgh1xo2hBUsgjQhXdm88uYPCCfLB29+0KkzFUbPeCBEn6bENT/bUeGF5T8elHkTWZlLGAOAA==",
-  "notes": "5.25 : bons (essence avant le prix), croix qui supprimait la mauvaise ligne, analyse des cuves",
+  "version": "5.26",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-5.26.bin",
+  "sig": "ZGc0N2bSc/2F/MZu3lN+Rc99C84ga85BTooP9yeK3d48s1k4nNjA5kIYXYorCKvryQe1+lS+oAF/DDJy6YRDDQ==",
+  "notes": "5.26 : message du rapport du jour comme avant",
   "min": "1.91"
 }
