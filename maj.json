@@ -1,8 +1,8 @@
 {
-  "version": "5.27",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-5.27.bin",
-  "sig": "fiXfKebFH6+dtR95k7nozInGqtrDmLz0nVGjR1sroI7C4Yj1eq94vZEfawi6l+/7AvN7LaIh41vzlxbbbziXCQ==",
-  "notes": "5.27 : erreurs tracées, 1er message du rapport, correctifs",
+  "version": "5.28",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-5.28.bin",
+  "sig": "yk+35+nVL8cF/qFkDctGhuc6AXS4QNvkQ1YEpzED2AsA9DRsMPWHG7elxvBD3enW6mvEnxFrF+gjnTkXnZlRCA==",
+  "notes": "",
   "min": "1.91",
   "exe": {
     "version": "5.14.0",
