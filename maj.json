@@ -1,8 +1,8 @@
 {
-  "version": "5.30",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-5.30.bin",
-  "sig": "O/t+lWUUdQsBnKkdr58YbM0pdS3z7p3UYqiBt4B62DHVMUmJdup2UPRT7qrRKFVgQL7gK/v370kHZUKhCwiVDg==",
-  "notes": "",
+  "version": "5.31",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-5.31.bin",
+  "sig": "AmmXfQCIkgkd6tgywizs+ANbbxJjKZPi4UZJNGiNKTHtQmXmdIU5TWE6BUoKJ6BaYBgp5WGcK7ZOJKotoLNADw==",
+  "notes": "Refonte de l'interface",
   "min": "1.91",
   "exe": {
     "version": "5.14.0",
