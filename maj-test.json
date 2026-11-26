@@ -1,7 +1,7 @@
 {
-  "version": "5.31",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-5.31.bin",
-  "sig": "AmmXfQCIkgkd6tgywizs+ANbbxJjKZPi4UZJNGiNKTHtQmXmdIU5TWE6BUoKJ6BaYBgp5WGcK7ZOJKotoLNADw==",
-  "notes": "Refonte de l'interface",
+  "version": "5.32",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-5.32.bin",
+  "sig": "gtkAncDIMOl7/NdcWgfyHNQZhnjHB3biKgTXIF9gI/o2dUp6DI+SjnRoHvt9g5cinwTqcKrCfbzK9D2NwlJFAg==",
+  "notes": "Démarrage protégé : plus jamais bloqué sur le logo",
   "min": "1.91"
 }
