@@ -1,7 +1,7 @@
 {
-  "version": "5.32",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-5.32.bin",
-  "sig": "gtkAncDIMOl7/NdcWgfyHNQZhnjHB3biKgTXIF9gI/o2dUp6DI+SjnRoHvt9g5cinwTqcKrCfbzK9D2NwlJFAg==",
-  "notes": "Démarrage protégé : plus jamais bloqué sur le logo",
+  "version": "5.33",
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/app-5.33.bin",
+  "sig": "hU4Y9GG6bx/d84MH43tacIu0XzfJRZVP0KRvPriZ6fukUuKkcb+9tD2n2DSlXCBUroIaotjaQ6eSUxL6x4B1AA==",
+  "notes": "",
   "min": "1.91"
 }
