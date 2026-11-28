@@ -1,9 +1,9 @@
 {
-  "version": "5.14.0",
+  "version": "5.34.0",
   "canal": "clients",
-  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/StationPro_5.14.0_x64-setup.exe",
-  "sig": "dvtvPY1qQRtZEZpZ9oN3T2VjQnba8vWKXEDyGLRmvd+ido15O91Xhp36AEqX2NuOPUWTWrQtG+bFcHYOb8idCg==",
-  "sigvc": "OwKRy10U+77lZuhb4QJIXgNgQmA84nxlMXqnXknJrEsXoCMNwZCCEhyV4hwPfsLKsxKJ8TnO94Y55nNeirmUCQ==",
-  "taille": 6867825,
-  "sha256": "d81945d27acf13f721a88f89f6319906676634337bb53f1a751e9fad2134ae8c"
+  "url": "https://raw.githubusercontent.com/MSenhoury/StationPro-maj/main/StationPro_5.34.0_x64-setup.exe",
+  "sig": "JoN8zRVn7E8N6XtkB6HFgADcf+3kjBb12wn9GJjEHUGEdArHQ0vPMRr0AdmPfDHCgHbZ9Xyhm4pX9/+OIWu2CQ==",
+  "sigvc": "ywXMjZXjTf6ysDxu8bU1uqh1sBJ7il9h7NibL/IW8G2ay/rVPrn/LH/jp/xH+7Eem3I86V+X3+RvfEaaE4rOAQ==",
+  "taille": 7185397,
+  "sha256": "ec315903a5b01daddabd935fdad5c4a8fbedee361fa7c209f8e92e222f7b96be"
 }
